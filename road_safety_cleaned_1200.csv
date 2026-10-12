@@ -1,0 +1,1201 @@
+incident_id,date,time,location,severity,road_type,junction,speed_limit,rain,visibility_km,weather_condition,traffic_volume,peak_flag,vehicle_category,vehicle_count,hour,time_of_day,month
+A0001,2025-02-02,15:26,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,440,0,Car,2,15,Afternoon,February
+A0002,2025-10-10,19:36,Lake Road,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,739,1,Car,1,19,Evening,October
+A0003,2025-08-27,21:09,Hill View Road,Slight,Single carriageway,Crossroads,40,0,8.0,Fine,501,0,Van,1,21,Late night,August
+A0004,2025-06-10,18:37,Industrial Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,756,1,Car,2,18,Evening,June
+A0005,2025-06-08,22:55,Lake Road,Slight,Dual carriageway,No Junction,70,0,10.0,Fine,160,0,Van,1,22,Late night,June
+A0006,2025-11-10,19:08,Central Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,848,1,Van,1,19,Evening,November
+A0007,2025-02-01,20:19,Ring Road,Slight,Urban single carriageway,T-Junction,20,1,6.0,Rain,423,0,Motorcycle,2,20,Evening,February
+A0008,2025-09-12,07:41,Market Street,Fatal,Urban single carriageway,T-Junction,30,0,1.0,Fog,779,1,Car,2,7,Morning,September
+A0009,2025-03-15,18:37,Market Street,Slight,Urban single carriageway,T-Junction,40,1,5.0,Rain,1077,1,Van,1,18,Evening,March
+A0010,2025-02-04,14:40,Industrial Road,Slight,Urban single carriageway,T-Junction,30,0,3.0,Fog,356,0,Car,1,14,Afternoon,February
+A0011,2025-07-12,16:33,Hill View Road,Serious,Single carriageway,T-Junction,40,1,6.0,Rain,745,1,Heavy goods vehicle,2,16,Afternoon,July
+A0012,2025-12-23,17:40,Industrial Road,Serious,Urban single carriageway,Roundabout,30,1,6.0,Rain,643,1,Van,2,17,Evening,December
+A0013,2025-09-26,22:36,Market Street,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,403,0,Car,1,22,Late night,September
+A0014,2025-10-05,23:04,Ring Road,Serious,Dual carriageway,No Junction,50,1,6.0,Rain,486,0,Van,1,23,Late night,October
+A0015,2025-09-19,10:45,Ring Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,333,0,Motorcycle,1,10,Morning,September
+A0016,2025-10-14,18:26,Central Road,Serious,Single carriageway,Crossroads,40,0,8.0,Fine,737,1,Motorcycle,1,18,Evening,October
+A0017,2025-07-07,18:03,Central Road,Slight,Urban single carriageway,Crossroads,40,0,10.0,Fine,808,1,Car,1,18,Evening,July
+A0018,2025-02-16,12:24,Ring Road,Slight,Urban single carriageway,T-Junction,40,1,6.0,Rain,345,0,Motorcycle,1,12,Afternoon,February
+A0019,2025-11-03,07:26,Central Road,Slight,Urban single carriageway,T-Junction,30,1,5.0,Rain,898,1,Van,1,7,Morning,November
+A0020,2025-06-14,05:05,Industrial Road,Serious,Dual carriageway,T-Junction,50,0,1.0,Fog,256,0,Heavy goods vehicle,3,5,Late night,June
+A0021,2025-07-02,19:59,Central Road,Slight,Single carriageway,Roundabout,30,1,2.0,Snow,875,1,Car,1,19,Evening,July
+A0022,2025-05-16,15:13,Central Road,Slight,Urban single carriageway,T-Junction,30,0,1.0,Fog,457,0,Motorcycle,1,15,Afternoon,May
+A0023,2025-03-08,23:19,Hill View Road,Serious,Single carriageway,Roundabout,40,0,10.0,Fine,50,0,Motorcycle,2,23,Late night,March
+A0024,2025-12-05,14:26,Central Road,Slight,Dual carriageway,Roundabout,70,0,1.0,Fog,567,0,Motorcycle,1,14,Afternoon,December
+A0025,2025-10-13,23:49,Industrial Road,Serious,Single carriageway,T-Junction,30,1,6.0,Rain,153,0,Motorcycle,1,23,Late night,October
+A0026,2025-08-24,13:44,Hill View Road,Slight,Single carriageway,T-Junction,40,0,1.0,Fog,581,0,Car,1,13,Afternoon,August
+A0027,2025-05-27,19:46,Central Road,Slight,Dual carriageway,Crossroads,60,0,8.0,Fine,657,1,Van,2,19,Evening,May
+A0028,2025-10-28,07:14,Hill View Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,546,1,Car,1,7,Morning,October
+A0029,2025-07-19,16:50,Hill View Road,Slight,Single carriageway,No Junction,50,0,1.0,Fog,691,1,Car,2,16,Afternoon,July
+A0030,2025-06-11,19:49,Hill View Road,Slight,Urban single carriageway,No Junction,30,0,12.0,Fine,591,1,Motorcycle,1,19,Evening,June
+A0031,2025-06-14,21:27,Lake Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,278,0,Car,1,21,Late night,June
+A0032,2025-03-24,19:32,Hill View Road,Serious,Dual carriageway,T-Junction,50,0,10.0,Fine,853,1,Car,1,19,Evening,March
+A0033,2025-02-03,05:02,Ring Road,Slight,Single carriageway,Roundabout,50,0,8.0,Fine,129,0,Car,3,5,Late night,February
+A0034,2025-07-22,12:45,Market Street,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,570,0,Motorcycle,1,12,Afternoon,July
+A0035,2025-11-21,06:57,Hill View Road,Serious,Single carriageway,T-Junction,40,1,3.0,Snow,209,0,Heavy goods vehicle,2,6,Morning,November
+A0036,2025-01-24,07:28,Industrial Road,Slight,Urban single carriageway,No Junction,30,0,3.0,Fog,801,1,Motorcycle,1,7,Morning,January
+A0037,2025-11-10,18:32,Ring Road,Serious,Dual carriageway,Crossroads,50,0,2.0,Fog,696,1,Car,1,18,Evening,November
+A0038,2025-10-30,18:29,Hill View Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,567,1,Bus,1,18,Evening,October
+A0039,2025-04-12,19:04,Market Street,Slight,Dual carriageway,Crossroads,70,0,10.0,Fine,777,1,Car,1,19,Evening,April
+A0040,2025-08-19,20:37,Hill View Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,407,0,Heavy goods vehicle,1,20,Evening,August
+A0041,2025-03-02,18:43,Industrial Road,Serious,Urban single carriageway,No Junction,30,0,10.0,Fine,804,1,Motorcycle,4,18,Evening,March
+A0042,2025-10-04,19:55,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,693,1,Car,1,19,Evening,October
+A0043,2025-09-13,06:55,Central Road,Fatal,Dual carriageway,T-Junction,50,1,6.0,Rain,591,0,Motorcycle,4,6,Morning,September
+A0044,2025-05-10,09:29,Ring Road,Slight,Urban single carriageway,T-Junction,30,1,5.0,Snow,574,1,Car,1,9,Morning,May
+A0045,2025-01-25,17:57,Ring Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,649,1,Van,1,17,Evening,January
+A0046,2025-12-21,20:31,Ring Road,Slight,Single carriageway,T-Junction,30,0,12.0,Fine,314,0,Car,2,20,Evening,December
+A0047,2025-06-12,00:38,Central Road,Slight,Urban single carriageway,Crossroads,30,0,12.0,Fine,260,0,Bus,2,0,Late night,June
+A0048,2025-11-22,15:36,Market Street,Fatal,Urban single carriageway,Roundabout,30,0,8.0,Fine,502,0,Van,1,15,Afternoon,November
+A0049,2025-09-05,18:59,Ring Road,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,552,1,Bus,2,18,Evening,September
+A0050,2025-10-12,04:44,Ring Road,Fatal,Dual carriageway,Roundabout,60,0,10.0,Fine,188,0,Heavy goods vehicle,3,4,Late night,October
+A0051,2025-10-05,13:07,Hill View Road,Slight,Urban single carriageway,Crossroads,40,0,10.0,Fine,332,0,Car,2,13,Afternoon,October
+A0052,2025-03-13,21:04,Hill View Road,Serious,Urban single carriageway,Roundabout,20,0,10.0,Fine,499,0,Motorcycle,1,21,Late night,March
+A0053,2025-05-13,18:24,Hill View Road,Fatal,Urban single carriageway,No Junction,20,1,8.0,Rain,571,1,Bus,1,18,Evening,May
+A0054,2025-06-20,09:30,Lake Road,Slight,Urban single carriageway,Crossroads,40,0,10.0,Fine,560,1,Car,1,9,Morning,June
+A0055,2025-07-01,20:40,Ring Road,Fatal,Urban single carriageway,Crossroads,20,0,10.0,Fine,390,0,Car,1,20,Evening,July
+A0056,2025-01-16,12:28,Ring Road,Serious,Urban single carriageway,No Junction,20,0,8.0,Fine,529,0,Car,1,12,Afternoon,January
+A0057,2025-07-19,20:30,Ring Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,451,0,Car,1,20,Evening,July
+A0058,2025-02-26,10:55,Central Road,Slight,Urban single carriageway,Roundabout,40,0,12.0,Fine,580,0,Bus,1,10,Morning,February
+A0059,2025-09-29,17:20,Market Street,Slight,Dual carriageway,Crossroads,60,1,6.0,Rain,666,1,Motorcycle,1,17,Evening,September
+A0060,2025-09-07,13:29,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,1.0,Fog,315,0,Motorcycle,1,13,Afternoon,September
+A0061,2025-12-03,09:33,Lake Road,Slight,Urban single carriageway,T-Junction,40,1,8.0,Rain,522,1,Heavy goods vehicle,1,9,Morning,December
+A0062,2025-09-29,20:28,Hill View Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,560,0,Car,1,20,Evening,September
+A0063,2025-05-14,08:58,Central Road,Slight,Dual carriageway,T-Junction,60,0,10.0,Fine,863,1,Van,1,8,Morning,May
+A0064,2025-12-20,07:57,Ring Road,Slight,Single carriageway,Roundabout,40,0,8.0,Fine,563,1,Car,2,7,Morning,December
+A0065,2025-05-30,11:30,Central Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,533,0,Car,1,11,Morning,May
+A0066,2025-04-29,18:27,Hill View Road,Serious,Urban single carriageway,Crossroads,30,0,1.0,Fog,567,1,Car,1,18,Evening,April
+A0067,2025-11-27,19:35,Lake Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,561,1,Car,1,19,Evening,November
+A0068,2025-05-16,23:10,Ring Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,276,0,Car,1,23,Late night,May
+A0069,2025-01-28,10:25,Ring Road,Serious,Urban single carriageway,T-Junction,30,0,12.0,Fine,401,0,Motorcycle,1,10,Morning,January
+A0070,2025-06-21,13:13,Market Street,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,798,0,Car,1,13,Afternoon,June
+A0071,2025-10-18,07:08,Market Street,Slight,Urban single carriageway,T-Junction,30,0,3.0,Fog,935,1,Car,1,7,Morning,October
+A0072,2025-03-11,16:05,Lake Road,Serious,Single carriageway,Crossroads,40,0,12.0,Fine,780,1,Motorcycle,1,16,Afternoon,March
+A0073,2025-06-18,23:35,Hill View Road,Slight,Urban single carriageway,Roundabout,30,0,8.0,Fine,297,0,Car,1,23,Late night,June
+A0074,2025-02-17,18:00,Ring Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,607,1,Van,1,18,Evening,February
+A0075,2025-09-08,17:38,Market Street,Slight,Single carriageway,T-Junction,30,1,6.0,Rain,869,1,Heavy goods vehicle,1,17,Evening,September
+A0076,2025-06-23,13:25,Central Road,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,555,0,Van,1,13,Afternoon,June
+A0077,2025-05-01,21:21,Central Road,Serious,Urban single carriageway,Crossroads,30,1,5.0,Rain,753,0,Motorcycle,1,21,Late night,May
+A0078,2025-03-24,15:46,Central Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,630,0,Motorcycle,2,15,Afternoon,March
+A0079,2025-07-26,07:32,Market Street,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,836,1,Motorcycle,1,7,Morning,July
+A0080,2025-09-02,12:44,Industrial Road,Slight,Urban single carriageway,T-Junction,30,0,3.0,Fog,522,0,Heavy goods vehicle,2,12,Afternoon,September
+A0081,2025-12-10,06:42,Ring Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,404,0,Heavy goods vehicle,1,6,Morning,December
+A0082,2025-06-09,08:01,Central Road,Slight,Urban single carriageway,T-Junction,20,0,8.0,Fine,666,1,Motorcycle,1,8,Morning,June
+A0083,2025-02-28,01:12,Central Road,Slight,Single carriageway,Roundabout,40,0,8.0,Fine,573,0,Motorcycle,1,1,Late night,February
+A0084,2025-10-31,14:34,Market Street,Serious,Single carriageway,T-Junction,40,0,8.0,Fine,571,0,Van,1,14,Afternoon,October
+A0085,2025-08-18,17:58,Lake Road,Slight,Urban single carriageway,No Junction,30,0,12.0,Fine,509,1,Car,1,17,Evening,August
+A0086,2025-09-13,11:09,Market Street,Slight,Urban single carriageway,No Junction,30,1,8.0,Rain,514,0,Motorcycle,1,11,Morning,September
+A0087,2025-02-05,13:06,Lake Road,Slight,Urban single carriageway,Crossroads,40,0,10.0,Fine,264,0,Motorcycle,1,13,Afternoon,February
+A0088,2025-04-25,22:56,Lake Road,Serious,Dual carriageway,Roundabout,50,0,8.0,Fine,295,0,Van,1,22,Late night,April
+A0089,2025-10-08,19:58,Central Road,Fatal,Single carriageway,T-Junction,40,0,10.0,Fine,706,1,Car,2,19,Evening,October
+A0090,2025-10-31,16:10,Ring Road,Serious,Urban single carriageway,No Junction,30,1,5.0,Rain,666,1,Car,4,16,Afternoon,October
+A0091,2025-06-08,10:24,Industrial Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,623,0,Car,2,10,Morning,June
+A0092,2025-10-21,21:37,Market Street,Serious,Single carriageway,T-Junction,50,0,10.0,Fine,522,0,Motorcycle,1,21,Late night,October
+A0093,2025-11-04,09:11,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,783,1,Heavy goods vehicle,2,9,Morning,November
+A0094,2025-05-22,11:19,Industrial Road,Slight,Single carriageway,T-Junction,50,0,8.0,Fine,379,0,Heavy goods vehicle,1,11,Morning,May
+A0095,2025-11-24,21:23,Lake Road,Slight,Single carriageway,Roundabout,40,1,3.0,Snow,391,0,Car,2,21,Late night,November
+A0096,2025-04-16,16:38,Ring Road,Slight,Single carriageway,T-Junction,40,0,12.0,Fine,907,1,Car,1,16,Afternoon,April
+A0097,2025-03-29,18:18,Ring Road,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,727,1,Van,1,18,Evening,March
+A0098,2025-09-07,17:24,Central Road,Slight,Urban single carriageway,T-Junction,40,0,8.0,Fine,783,1,Van,1,17,Evening,September
+A0099,2025-08-21,17:17,Lake Road,Slight,Urban single carriageway,No Junction,30,1,8.0,Rain,588,1,Motorcycle,2,17,Evening,August
+A0100,2025-02-21,10:45,Ring Road,Slight,Single carriageway,No Junction,30,0,10.0,Fine,425,0,Car,2,10,Morning,February
+A0101,2025-10-31,09:09,Central Road,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,823,1,Car,1,9,Morning,October
+A0102,2025-03-14,11:13,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,388,0,Van,1,11,Morning,March
+A0103,2025-10-21,08:14,Industrial Road,Serious,Single carriageway,Crossroads,30,1,8.0,Rain,783,1,Motorcycle,2,8,Morning,October
+A0104,2025-01-03,20:54,Lake Road,Serious,Single carriageway,No Junction,40,1,6.0,Rain,334,0,Car,2,20,Evening,January
+A0105,2025-10-18,10:56,Market Street,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,494,0,Heavy goods vehicle,2,10,Morning,October
+A0106,2025-10-15,16:30,Central Road,Slight,Urban single carriageway,T-Junction,30,0,2.0,Fog,847,1,Motorcycle,1,16,Afternoon,October
+A0107,2025-10-12,19:09,Industrial Road,Slight,Urban single carriageway,No Junction,30,1,2.0,Snow,613,1,Heavy goods vehicle,2,19,Evening,October
+A0108,2025-08-31,19:45,Industrial Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,802,1,Motorcycle,2,19,Evening,August
+A0109,2025-06-22,14:29,Ring Road,Slight,Single carriageway,Roundabout,50,0,8.0,Fine,428,0,Motorcycle,1,14,Afternoon,June
+A0110,2025-09-15,15:50,Hill View Road,Slight,Single carriageway,Crossroads,50,0,10.0,Fine,247,0,Heavy goods vehicle,1,15,Afternoon,September
+A0111,2025-04-12,23:21,Ring Road,Serious,Dual carriageway,Crossroads,50,0,10.0,Fine,240,0,Heavy goods vehicle,1,23,Late night,April
+A0112,2025-10-12,18:59,Market Street,Serious,Single carriageway,T-Junction,40,0,10.0,Fine,641,1,Heavy goods vehicle,1,18,Evening,October
+A0113,2025-07-22,19:48,Central Road,Serious,Dual carriageway,T-Junction,60,0,10.0,Fine,879,1,Bus,2,19,Evening,July
+A0114,2025-06-17,21:13,Central Road,Serious,Single carriageway,No Junction,50,0,3.0,Fog,565,0,Motorcycle,1,21,Late night,June
+A0115,2025-07-04,19:43,Central Road,Serious,Dual carriageway,T-Junction,50,0,10.0,Fine,995,1,Car,1,19,Evening,July
+A0116,2025-07-27,08:17,Lake Road,Serious,Dual carriageway,No Junction,60,1,5.0,Rain,757,1,Car,1,8,Morning,July
+A0117,2025-01-14,16:20,Central Road,Serious,Single carriageway,Roundabout,50,0,12.0,Fine,703,1,Heavy goods vehicle,3,16,Afternoon,January
+A0118,2025-02-21,07:15,Central Road,Serious,Dual carriageway,Roundabout,50,0,12.0,Fine,607,1,Car,2,7,Morning,February
+A0119,2025-03-31,17:40,Ring Road,Serious,Dual carriageway,No Junction,60,0,2.0,Fog,574,1,Van,1,17,Evening,March
+A0120,2025-02-11,22:15,Central Road,Serious,Single carriageway,T-Junction,30,0,10.0,Fine,267,0,Heavy goods vehicle,2,22,Late night,February
+A0121,2025-06-10,15:38,Central Road,Slight,Single carriageway,T-Junction,40,0,8.0,Fine,772,0,Heavy goods vehicle,1,15,Afternoon,June
+A0122,2025-09-01,14:34,Ring Road,Slight,Single carriageway,Crossroads,40,0,8.0,Fine,428,0,Heavy goods vehicle,2,14,Afternoon,September
+A0123,2025-08-27,05:45,Market Street,Slight,Dual carriageway,T-Junction,70,1,5.0,Rain,483,0,Motorcycle,1,5,Late night,August
+A0124,2025-06-21,22:59,Ring Road,Slight,Single carriageway,No Junction,40,0,12.0,Fine,201,0,Motorcycle,1,22,Late night,June
+A0125,2025-11-09,07:00,Industrial Road,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,712,1,Heavy goods vehicle,4,7,Morning,November
+A0126,2025-07-26,05:59,Central Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,386,0,Car,1,5,Late night,July
+A0127,2025-01-29,09:06,Industrial Road,Slight,Dual carriageway,Crossroads,60,0,12.0,Fine,840,1,Car,1,9,Morning,January
+A0128,2025-10-07,06:31,Industrial Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,341,0,Heavy goods vehicle,1,6,Morning,October
+A0129,2025-07-29,14:20,Lake Road,Fatal,Single carriageway,Roundabout,40,0,10.0,Fine,324,0,Motorcycle,1,14,Afternoon,July
+A0130,2025-08-20,15:38,Hill View Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,592,0,Motorcycle,1,15,Afternoon,August
+A0131,2025-07-26,11:43,Ring Road,Slight,Dual carriageway,Roundabout,60,0,10.0,Fine,400,0,Car,1,11,Morning,July
+A0132,2025-07-22,06:51,Hill View Road,Slight,Dual carriageway,Roundabout,50,1,8.0,Rain,184,0,Motorcycle,1,6,Morning,July
+A0133,2025-02-03,07:24,Hill View Road,Slight,Single carriageway,No Junction,30,1,5.0,Rain,367,1,Heavy goods vehicle,4,7,Morning,February
+A0134,2025-07-24,12:55,Central Road,Serious,Single carriageway,T-Junction,50,0,10.0,Fine,653,0,Motorcycle,1,12,Afternoon,July
+A0135,2025-10-18,06:19,Industrial Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,320,0,Car,1,6,Morning,October
+A0136,2025-04-21,18:12,Ring Road,Slight,Dual carriageway,Crossroads,50,0,12.0,Fine,659,1,Motorcycle,1,18,Evening,April
+A0137,2025-08-09,08:22,Lake Road,Slight,Urban single carriageway,T-Junction,20,0,3.0,Fog,609,1,Heavy goods vehicle,2,8,Morning,August
+A0138,2025-01-12,10:31,Market Street,Slight,Single carriageway,Roundabout,50,0,10.0,Fine,532,0,Heavy goods vehicle,1,10,Morning,January
+A0139,2025-05-07,13:40,Central Road,Slight,Single carriageway,Roundabout,30,0,8.0,Fine,553,0,Car,1,13,Afternoon,May
+A0140,2025-06-09,13:49,Ring Road,Serious,Single carriageway,Crossroads,30,0,12.0,Fine,476,0,Motorcycle,3,13,Afternoon,June
+A0141,2025-12-25,00:13,Ring Road,Serious,Urban single carriageway,No Junction,20,0,10.0,Fine,293,0,Car,1,0,Late night,December
+A0142,2025-03-20,07:18,Market Street,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,786,1,Motorcycle,1,7,Morning,March
+A0143,2025-04-11,20:56,Market Street,Serious,Dual carriageway,T-Junction,50,0,12.0,Fine,684,0,Car,2,20,Evening,April
+A0144,2025-05-30,00:26,Central Road,Serious,Single carriageway,No Junction,50,1,3.0,Rain,382,0,Motorcycle,1,0,Late night,May
+A0145,2025-12-29,15:14,Ring Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,379,0,Motorcycle,1,15,Afternoon,December
+A0146,2025-11-08,15:59,Market Street,Slight,Single carriageway,No Junction,40,1,6.0,Rain,609,0,Car,1,15,Afternoon,November
+A0147,2025-01-13,11:26,Industrial Road,Slight,Urban single carriageway,T-Junction,30,1,5.0,Rain,374,0,Car,2,11,Morning,January
+A0148,2025-03-27,14:59,Central Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,613,0,Car,2,14,Afternoon,March
+A0149,2025-10-27,19:55,Market Street,Slight,Urban single carriageway,Roundabout,30,0,2.0,Fog,655,1,Car,1,19,Evening,October
+A0150,2025-01-22,20:54,Market Street,Serious,Urban single carriageway,Roundabout,30,1,3.0,Rain,487,0,Van,2,20,Evening,January
+A0151,2025-11-09,09:34,Ring Road,Slight,Urban single carriageway,Crossroads,30,1,3.0,Rain,448,1,Car,1,9,Morning,November
+A0152,2025-04-13,11:47,Ring Road,Slight,Single carriageway,Roundabout,40,1,5.0,Rain,412,0,Car,1,11,Morning,April
+A0153,2025-12-01,09:57,Hill View Road,Serious,Single carriageway,Crossroads,40,0,12.0,Fine,810,1,Heavy goods vehicle,1,9,Morning,December
+A0154,2025-04-18,15:16,Industrial Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,498,0,Car,1,15,Afternoon,April
+A0155,2025-06-08,18:02,Market Street,Fatal,Single carriageway,Crossroads,40,0,10.0,Fine,874,1,Heavy goods vehicle,1,18,Evening,June
+A0156,2025-08-30,09:19,Hill View Road,Serious,Urban single carriageway,Crossroads,20,0,10.0,Fine,885,1,Motorcycle,1,9,Morning,August
+A0157,2025-02-16,11:38,Central Road,Serious,Urban single carriageway,No Junction,30,0,10.0,Fine,630,0,Van,1,11,Morning,February
+A0158,2025-07-23,21:32,Market Street,Serious,Urban single carriageway,Crossroads,30,0,8.0,Fine,513,0,Motorcycle,1,21,Late night,July
+A0159,2025-07-04,06:04,Ring Road,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,167,0,Car,1,6,Morning,July
+A0160,2025-10-14,14:33,Central Road,Slight,Urban single carriageway,Roundabout,40,0,3.0,Fog,590,0,Bus,1,14,Afternoon,October
+A0161,2025-12-30,18:10,Ring Road,Serious,Dual carriageway,Crossroads,50,1,6.0,Rain,586,1,Bus,1,18,Evening,December
+A0162,2025-08-31,08:30,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,594,1,Car,1,8,Morning,August
+A0163,2025-05-30,06:34,Hill View Road,Slight,Urban single carriageway,T-Junction,40,0,12.0,Fine,328,0,Van,1,6,Morning,May
+A0164,2025-05-29,07:38,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,752,1,Motorcycle,1,7,Morning,May
+A0165,2025-06-02,21:24,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,1.0,Fog,265,0,Heavy goods vehicle,2,21,Late night,June
+A0166,2025-10-25,00:24,Market Street,Slight,Single carriageway,Crossroads,40,1,3.0,Rain,308,0,Van,2,0,Late night,October
+A0167,2025-04-28,08:40,Central Road,Slight,Single carriageway,T-Junction,50,0,8.0,Fine,763,1,Car,2,8,Morning,April
+A0168,2025-03-02,04:44,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,449,0,Bus,2,4,Late night,March
+A0169,2025-05-03,07:48,Hill View Road,Serious,Single carriageway,Crossroads,40,0,12.0,Fine,764,1,Heavy goods vehicle,3,7,Morning,May
+A0170,2025-01-09,17:20,Industrial Road,Slight,Single carriageway,Roundabout,40,1,8.0,Rain,1000,1,Van,1,17,Evening,January
+A0171,2025-02-08,09:25,Central Road,Serious,Dual carriageway,Roundabout,60,1,2.0,Snow,763,1,Car,1,9,Morning,February
+A0172,2025-02-02,16:19,Ring Road,Slight,Dual carriageway,Crossroads,70,0,10.0,Fine,608,1,Van,1,16,Afternoon,February
+A0173,2025-10-09,17:31,Hill View Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,708,1,Motorcycle,1,17,Evening,October
+A0174,2025-09-21,20:07,Lake Road,Slight,Dual carriageway,No Junction,50,0,10.0,Fine,361,0,Car,1,20,Evening,September
+A0175,2025-09-12,00:25,Ring Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,215,0,Heavy goods vehicle,1,0,Late night,September
+A0176,2025-06-18,20:11,Ring Road,Serious,Single carriageway,T-Junction,40,1,2.0,Snow,388,0,Motorcycle,2,20,Evening,June
+A0177,2025-09-19,17:31,Hill View Road,Slight,Single carriageway,T-Junction,30,1,3.0,Rain,387,1,Bus,1,17,Evening,September
+A0178,2025-02-28,08:51,Lake Road,Slight,Urban single carriageway,Crossroads,30,0,12.0,Fine,662,1,Motorcycle,1,8,Morning,February
+A0179,2025-11-25,19:59,Central Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,791,1,Car,2,19,Evening,November
+A0180,2025-07-02,20:26,Industrial Road,Slight,Dual carriageway,No Junction,50,0,10.0,Fine,637,0,Heavy goods vehicle,1,20,Evening,July
+A0181,2025-12-09,09:03,Central Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,810,1,Motorcycle,1,9,Morning,December
+A0182,2025-02-25,21:13,Lake Road,Serious,Dual carriageway,Crossroads,50,0,10.0,Fine,304,0,Motorcycle,1,21,Late night,February
+A0183,2025-07-01,14:06,Central Road,Slight,Dual carriageway,T-Junction,60,1,8.0,Rain,564,0,Car,1,14,Afternoon,July
+A0184,2025-09-12,17:45,Central Road,Slight,Urban single carriageway,Crossroads,20,1,3.0,Rain,600,1,Car,3,17,Evening,September
+A0185,2025-06-30,23:59,Central Road,Slight,Single carriageway,T-Junction,40,0,8.0,Fine,268,0,Motorcycle,1,23,Late night,June
+A0186,2025-06-12,12:33,Market Street,Slight,Dual carriageway,T-Junction,50,1,6.0,Rain,653,0,Motorcycle,2,12,Afternoon,June
+A0187,2025-03-02,19:10,Market Street,Serious,Dual carriageway,Roundabout,50,1,6.0,Rain,785,1,Heavy goods vehicle,1,19,Evening,March
+A0188,2025-05-20,11:01,Central Road,Fatal,Urban single carriageway,Crossroads,30,0,8.0,Fine,682,0,Heavy goods vehicle,2,11,Morning,May
+A0189,2025-03-29,19:58,Ring Road,Slight,Urban single carriageway,No Junction,30,1,3.0,Rain,453,1,Van,2,19,Evening,March
+A0190,2025-04-21,17:18,Market Street,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,785,1,Car,1,17,Evening,April
+A0191,2025-09-07,08:06,Hill View Road,Slight,Urban single carriageway,Crossroads,30,1,5.0,Rain,602,1,Van,1,8,Morning,September
+A0192,2025-08-19,13:10,Industrial Road,Serious,Urban single carriageway,No Junction,20,0,8.0,Fine,605,0,Car,1,13,Afternoon,August
+A0193,2025-08-10,11:15,Hill View Road,Slight,Urban single carriageway,Roundabout,40,0,10.0,Fine,497,0,Bus,1,11,Morning,August
+A0194,2025-05-13,07:39,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,874,1,Motorcycle,2,7,Morning,May
+A0195,2025-12-17,04:53,Market Street,Serious,Single carriageway,T-Junction,30,0,12.0,Fine,544,0,Heavy goods vehicle,2,4,Late night,December
+A0196,2025-02-01,12:16,Industrial Road,Serious,Single carriageway,Crossroads,40,0,12.0,Fine,473,0,Car,1,12,Afternoon,February
+A0197,2025-05-06,01:41,Central Road,Slight,Single carriageway,Crossroads,40,1,5.0,Rain,523,0,Car,2,1,Late night,May
+A0198,2025-02-13,08:03,Market Street,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,705,1,Heavy goods vehicle,1,8,Morning,February
+A0199,2025-05-04,18:00,Industrial Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,621,1,Motorcycle,1,18,Evening,May
+A0200,2025-12-18,18:03,Industrial Road,Serious,Urban single carriageway,Roundabout,30,1,3.0,Snow,805,1,Bus,3,18,Evening,December
+A0201,2025-05-14,18:55,Market Street,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,659,1,Heavy goods vehicle,3,18,Evening,May
+A0202,2025-11-28,11:34,Hill View Road,Slight,Urban single carriageway,Roundabout,20,0,10.0,Fine,487,0,Motorcycle,1,11,Morning,November
+A0203,2025-06-30,20:48,Ring Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,440,0,Motorcycle,1,20,Evening,June
+A0204,2025-09-13,17:01,Hill View Road,Slight,Urban single carriageway,Crossroads,40,0,10.0,Fine,757,1,Motorcycle,3,17,Evening,September
+A0205,2025-06-16,07:01,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,804,1,Bus,2,7,Morning,June
+A0206,2025-04-08,07:50,Central Road,Serious,Urban single carriageway,T-Junction,30,1,3.0,Rain,815,1,Heavy goods vehicle,2,7,Morning,April
+A0207,2025-10-06,18:06,Ring Road,Slight,Single carriageway,Roundabout,30,0,12.0,Fine,700,1,Car,1,18,Evening,October
+A0208,2025-12-20,08:09,Central Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,743,1,Van,1,8,Morning,December
+A0209,2025-04-07,15:31,Hill View Road,Serious,Dual carriageway,Roundabout,50,0,10.0,Fine,359,0,Car,2,15,Afternoon,April
+A0210,2025-10-12,23:36,Market Street,Slight,Single carriageway,T-Junction,30,1,5.0,Rain,437,0,Motorcycle,2,23,Late night,October
+A0211,2025-04-06,00:13,Lake Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,227,0,Van,1,0,Late night,April
+A0212,2025-09-19,01:26,Lake Road,Serious,Urban single carriageway,T-Junction,30,1,6.0,Rain,189,0,Heavy goods vehicle,1,1,Late night,September
+A0213,2025-10-15,23:40,Ring Road,Slight,Single carriageway,Crossroads,40,0,8.0,Fine,221,0,Motorcycle,1,23,Late night,October
+A0214,2025-06-14,17:26,Lake Road,Serious,Urban single carriageway,Roundabout,20,0,10.0,Fine,809,1,Car,1,17,Evening,June
+A0215,2025-09-26,07:22,Market Street,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,765,1,Car,1,7,Morning,September
+A0216,2025-04-10,21:04,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,382,0,Car,1,21,Late night,April
+A0217,2025-01-29,20:27,Central Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,419,0,Car,1,20,Evening,January
+A0218,2025-02-05,16:48,Lake Road,Slight,Urban single carriageway,T-Junction,30,1,8.0,Rain,645,1,Bus,2,16,Afternoon,February
+A0219,2025-06-13,17:37,Lake Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,715,1,Car,1,17,Evening,June
+A0220,2025-11-26,09:53,Industrial Road,Slight,Dual carriageway,T-Junction,60,0,8.0,Fine,813,1,Car,1,9,Morning,November
+A0221,2025-02-16,06:07,Lake Road,Slight,Single carriageway,No Junction,50,0,8.0,Fine,240,0,Van,3,6,Morning,February
+A0222,2025-06-16,17:00,Industrial Road,Slight,Single carriageway,No Junction,40,0,8.0,Fine,825,1,Car,1,17,Evening,June
+A0223,2025-09-14,10:32,Central Road,Serious,Single carriageway,No Junction,30,0,10.0,Fine,663,0,Car,1,10,Morning,September
+A0224,2025-03-15,18:10,Industrial Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,841,1,Heavy goods vehicle,1,18,Evening,March
+A0225,2025-09-21,20:35,Ring Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,528,0,Car,2,20,Evening,September
+A0226,2025-04-22,01:54,Market Street,Slight,Single carriageway,Roundabout,30,0,8.0,Fine,546,0,Car,1,1,Late night,April
+A0227,2025-10-23,17:20,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,633,1,Motorcycle,1,17,Evening,October
+A0228,2025-07-31,09:32,Market Street,Slight,Urban single carriageway,T-Junction,40,0,8.0,Fine,677,1,Car,1,9,Morning,July
+A0229,2025-07-19,20:40,Market Street,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,656,0,Car,1,20,Evening,July
+A0230,2025-03-06,09:09,Central Road,Serious,Single carriageway,Crossroads,50,0,12.0,Fine,888,1,Car,2,9,Morning,March
+A0231,2025-06-19,17:53,Central Road,Slight,Single carriageway,Crossroads,40,0,3.0,Fog,966,1,Car,1,17,Evening,June
+A0232,2025-11-09,16:12,Ring Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,778,1,Heavy goods vehicle,1,16,Afternoon,November
+A0233,2025-01-08,13:48,Lake Road,Serious,Urban single carriageway,Crossroads,20,1,6.0,Rain,624,0,Motorcycle,1,13,Afternoon,January
+A0234,2025-10-04,18:39,Hill View Road,Slight,Single carriageway,T-Junction,40,0,8.0,Fine,711,1,Car,1,18,Evening,October
+A0235,2025-06-29,18:08,Ring Road,Slight,Urban single carriageway,Roundabout,20,0,8.0,Fine,672,1,Car,1,18,Evening,June
+A0236,2025-09-20,16:43,Market Street,Serious,Single carriageway,Crossroads,40,0,10.0,Fine,671,1,Heavy goods vehicle,2,16,Afternoon,September
+A0237,2025-08-31,19:11,Ring Road,Slight,Single carriageway,No Junction,30,0,8.0,Fine,680,1,Car,1,19,Evening,August
+A0238,2025-06-07,23:35,Central Road,Slight,Urban single carriageway,Crossroads,30,1,5.0,Rain,334,0,Bus,1,23,Late night,June
+A0239,2025-04-23,13:57,Lake Road,Slight,Single carriageway,No Junction,40,1,5.0,Rain,451,0,Car,1,13,Afternoon,April
+A0240,2025-08-17,15:57,Central Road,Slight,Urban single carriageway,Roundabout,20,0,12.0,Fine,595,0,Heavy goods vehicle,2,15,Afternoon,August
+A0241,2025-02-21,01:52,Hill View Road,Slight,Single carriageway,Crossroads,30,1,8.0,Rain,277,0,Car,1,1,Late night,February
+A0242,2025-08-02,19:29,Hill View Road,Slight,Single carriageway,Crossroads,50,0,10.0,Fine,640,1,Car,2,19,Evening,August
+A0243,2025-02-04,15:33,Ring Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,523,0,Motorcycle,1,15,Afternoon,February
+A0244,2025-08-26,13:18,Lake Road,Serious,Single carriageway,T-Junction,30,1,5.0,Rain,157,0,Car,1,13,Afternoon,August
+A0245,2025-08-18,07:55,Market Street,Serious,Dual carriageway,Crossroads,50,0,8.0,Fine,828,1,Van,2,7,Morning,August
+A0246,2025-01-31,20:28,Lake Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,550,0,Motorcycle,1,20,Evening,January
+A0247,2025-10-04,13:46,Hill View Road,Slight,Single carriageway,Crossroads,40,0,3.0,Fog,617,0,Motorcycle,3,13,Afternoon,October
+A0248,2025-06-01,18:21,Lake Road,Slight,Single carriageway,No Junction,30,0,2.0,Fog,723,1,Car,3,18,Evening,June
+A0249,2025-10-15,08:44,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,818,1,Van,1,8,Morning,October
+A0250,2025-01-16,22:13,Lake Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,246,0,Car,1,22,Late night,January
+A0251,2025-03-07,08:44,Industrial Road,Serious,Single carriageway,Crossroads,30,1,5.0,Rain,730,1,Heavy goods vehicle,1,8,Morning,March
+A0252,2025-06-30,08:02,Market Street,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,862,1,Van,1,8,Morning,June
+A0253,2025-03-10,20:06,Lake Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,429,0,Motorcycle,2,20,Evening,March
+A0254,2025-05-01,21:21,Hill View Road,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,351,0,Bus,3,21,Late night,May
+A0255,2025-08-30,08:28,Ring Road,Fatal,Single carriageway,No Junction,30,0,4.0,Fog,598,1,Motorcycle,1,8,Morning,August
+A0256,2025-02-22,14:42,Industrial Road,Slight,Urban single carriageway,T-Junction,30,0,2.0,Fog,398,0,Motorcycle,1,14,Afternoon,February
+A0257,2025-09-05,18:21,Market Street,Serious,Dual carriageway,T-Junction,50,1,6.0,Rain,862,1,Car,1,18,Evening,September
+A0258,2025-02-07,20:01,Ring Road,Serious,Single carriageway,T-Junction,40,0,10.0,Fine,431,0,Motorcycle,1,20,Evening,February
+A0259,2025-03-05,12:19,Central Road,Slight,Single carriageway,Roundabout,40,0,8.0,Fine,553,0,Car,1,12,Afternoon,March
+A0260,2025-08-03,15:26,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,533,0,Car,1,15,Afternoon,August
+A0261,2025-10-17,18:32,Lake Road,Slight,Single carriageway,Crossroads,30,0,2.0,Fog,700,1,Bus,2,18,Evening,October
+A0262,2025-03-04,18:38,Market Street,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,888,1,Car,4,18,Evening,March
+A0263,2025-04-20,19:14,Market Street,Slight,Single carriageway,T-Junction,50,0,8.0,Fine,696,1,Motorcycle,1,19,Evening,April
+A0264,2025-12-04,16:36,Central Road,Slight,Urban single carriageway,Crossroads,40,1,8.0,Rain,681,1,Car,1,16,Afternoon,December
+A0265,2025-12-28,07:37,Ring Road,Serious,Dual carriageway,No Junction,50,0,12.0,Fine,745,1,Motorcycle,1,7,Morning,December
+A0266,2025-08-01,21:46,Lake Road,Serious,Urban single carriageway,T-Junction,30,1,3.0,Rain,292,0,Bus,1,21,Late night,August
+A0267,2025-06-13,20:31,Industrial Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,564,0,Car,1,20,Evening,June
+A0268,2025-05-07,19:48,Central Road,Slight,Urban single carriageway,T-Junction,30,1,5.0,Rain,971,1,Motorcycle,2,19,Evening,May
+A0269,2025-08-12,07:13,Ring Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,811,1,Motorcycle,1,7,Morning,August
+A0270,2025-08-04,08:42,Ring Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,723,1,Bus,2,8,Morning,August
+A0271,2025-04-18,18:02,Ring Road,Slight,Urban single carriageway,T-Junction,20,0,8.0,Fine,720,1,Car,1,18,Evening,April
+A0272,2025-01-09,02:06,Market Street,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,615,0,Van,1,2,Late night,January
+A0273,2025-02-25,23:51,Market Street,Serious,Urban single carriageway,T-Junction,40,0,10.0,Fine,156,0,Motorcycle,2,23,Late night,February
+A0274,2025-12-16,12:28,Ring Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,383,0,Motorcycle,1,12,Afternoon,December
+A0275,2025-06-02,18:37,Ring Road,Serious,Dual carriageway,No Junction,50,0,10.0,Fine,734,1,Car,1,18,Evening,June
+A0276,2025-06-26,20:36,Ring Road,Slight,Urban single carriageway,Crossroads,30,1,6.0,Rain,396,0,Car,2,20,Evening,June
+A0277,2025-06-20,13:41,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,553,0,Motorcycle,1,13,Afternoon,June
+A0278,2025-10-13,11:14,Lake Road,Serious,Dual carriageway,Crossroads,60,1,5.0,Rain,426,0,Car,1,11,Morning,October
+A0279,2025-01-24,17:10,Hill View Road,Slight,Urban single carriageway,T-Junction,30,1,6.0,Rain,663,1,Motorcycle,1,17,Evening,January
+A0280,2025-01-31,16:02,Market Street,Slight,Urban single carriageway,Roundabout,30,0,12.0,Fine,782,1,Motorcycle,1,16,Afternoon,January
+A0281,2025-04-11,13:51,Lake Road,Serious,Single carriageway,Crossroads,30,1,6.0,Rain,377,0,Motorcycle,1,13,Afternoon,April
+A0282,2025-06-27,17:13,Lake Road,Slight,Dual carriageway,T-Junction,60,0,12.0,Fine,595,1,Car,2,17,Evening,June
+A0283,2025-09-02,21:34,Central Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,617,0,Car,1,21,Late night,September
+A0284,2025-06-29,14:27,Ring Road,Slight,Single carriageway,Crossroads,50,0,10.0,Fine,352,0,Motorcycle,1,14,Afternoon,June
+A0285,2025-06-11,08:09,Market Street,Serious,Dual carriageway,No Junction,50,1,5.0,Rain,905,1,Motorcycle,2,8,Morning,June
+A0286,2025-12-09,12:24,Hill View Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,495,0,Heavy goods vehicle,1,12,Afternoon,December
+A0287,2025-02-28,13:04,Central Road,Serious,Dual carriageway,No Junction,60,0,10.0,Fine,699,0,Motorcycle,1,13,Afternoon,February
+A0288,2025-07-28,07:10,Hill View Road,Serious,Dual carriageway,T-Junction,50,0,1.0,Fog,537,1,Motorcycle,1,7,Morning,July
+A0289,2025-07-17,08:08,Market Street,Slight,Dual carriageway,No Junction,50,0,8.0,Fine,640,1,Car,1,8,Morning,July
+A0290,2025-06-22,18:49,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,1.0,Fog,649,1,Heavy goods vehicle,1,18,Evening,June
+A0291,2025-10-22,11:34,Industrial Road,Slight,Urban single carriageway,T-Junction,30,1,8.0,Rain,799,0,Car,1,11,Morning,October
+A0292,2025-04-08,22:55,Market Street,Serious,Single carriageway,Roundabout,30,0,4.0,Fog,516,0,Car,1,22,Late night,April
+A0293,2025-12-15,09:26,Lake Road,Slight,Single carriageway,T-Junction,30,0,3.0,Fog,594,1,Car,1,9,Morning,December
+A0294,2025-05-02,07:12,Industrial Road,Serious,Single carriageway,T-Junction,30,1,2.0,Snow,772,1,Car,1,7,Morning,May
+A0295,2025-07-18,19:36,Lake Road,Serious,Dual carriageway,No Junction,60,0,12.0,Fine,722,1,Van,1,19,Evening,July
+A0296,2025-07-10,20:55,Central Road,Serious,Single carriageway,T-Junction,40,1,6.0,Rain,453,0,Car,1,20,Evening,July
+A0297,2025-11-07,10:31,Lake Road,Slight,Urban single carriageway,Roundabout,20,1,5.0,Rain,566,0,Car,1,10,Morning,November
+A0298,2025-06-10,08:01,Central Road,Slight,Urban single carriageway,Roundabout,30,1,6.0,Rain,793,1,Car,1,8,Morning,June
+A0299,2025-04-14,08:18,Market Street,Serious,Urban single carriageway,No Junction,20,0,10.0,Fine,800,1,Heavy goods vehicle,1,8,Morning,April
+A0300,2025-01-08,15:55,Lake Road,Slight,Urban single carriageway,No Junction,20,0,1.0,Fog,432,0,Van,1,15,Afternoon,January
+A0301,2025-05-13,14:31,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,544,0,Heavy goods vehicle,1,14,Afternoon,May
+A0302,2025-10-29,09:57,Ring Road,Serious,Dual carriageway,T-Junction,60,0,10.0,Fine,574,1,Bus,1,9,Morning,October
+A0303,2025-01-04,06:30,Market Street,Serious,Single carriageway,Crossroads,30,0,8.0,Fine,219,0,Heavy goods vehicle,1,6,Morning,January
+A0304,2025-11-24,15:00,Lake Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,462,0,Motorcycle,2,15,Afternoon,November
+A0305,2025-07-18,22:52,Hill View Road,Serious,Urban single carriageway,No Junction,30,1,6.0,Rain,50,0,Car,1,22,Late night,July
+A0306,2025-02-21,17:45,Ring Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,619,1,Car,1,17,Evening,February
+A0307,2025-04-21,15:42,Industrial Road,Fatal,Dual carriageway,Crossroads,50,1,8.0,Rain,628,0,Car,2,15,Afternoon,April
+A0308,2025-07-22,07:58,Central Road,Slight,Dual carriageway,T-Junction,50,1,8.0,Rain,867,1,Van,1,7,Morning,July
+A0309,2025-04-26,09:11,Central Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,914,1,Car,2,9,Morning,April
+A0310,2025-02-09,10:54,Hill View Road,Slight,Dual carriageway,No Junction,50,1,6.0,Rain,492,0,Car,2,10,Morning,February
+A0311,2025-09-01,19:13,Industrial Road,Serious,Single carriageway,Crossroads,40,0,10.0,Fine,971,1,Motorcycle,1,19,Evening,September
+A0312,2025-09-03,20:58,Central Road,Fatal,Single carriageway,Roundabout,30,1,6.0,Rain,531,0,Car,1,20,Evening,September
+A0313,2025-02-13,21:11,Central Road,Slight,Dual carriageway,Roundabout,60,0,1.0,Fog,629,0,Car,1,21,Late night,February
+A0314,2025-04-13,23:33,Central Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,346,0,Car,2,23,Late night,April
+A0315,2025-03-31,23:47,Lake Road,Slight,Urban single carriageway,Crossroads,20,1,6.0,Rain,325,0,Motorcycle,1,23,Late night,March
+A0316,2025-08-29,22:04,Central Road,Slight,Urban single carriageway,No Junction,20,0,10.0,Fine,383,0,Car,2,22,Late night,August
+A0317,2025-09-24,06:04,Ring Road,Serious,Single carriageway,Roundabout,30,0,12.0,Fine,401,0,Car,1,6,Morning,September
+A0318,2025-09-23,07:50,Industrial Road,Slight,Single carriageway,Roundabout,30,1,6.0,Rain,676,1,Car,1,7,Morning,September
+A0319,2025-12-09,10:03,Central Road,Serious,Single carriageway,Crossroads,40,0,10.0,Fine,730,0,Van,2,10,Morning,December
+A0320,2025-10-08,16:36,Ring Road,Serious,Single carriageway,T-Junction,30,0,8.0,Fine,709,1,Car,1,16,Afternoon,October
+A0321,2025-04-28,07:56,Ring Road,Slight,Urban single carriageway,Roundabout,30,0,8.0,Fine,646,1,Car,1,7,Morning,April
+A0322,2025-02-09,20:36,Lake Road,Slight,Dual carriageway,T-Junction,60,0,10.0,Fine,484,0,Heavy goods vehicle,3,20,Evening,February
+A0323,2025-08-13,17:28,Market Street,Fatal,Urban single carriageway,T-Junction,30,0,2.0,Fog,836,1,Bus,1,17,Evening,August
+A0324,2025-12-01,16:25,Market Street,Serious,Dual carriageway,T-Junction,60,0,8.0,Fine,845,1,Car,2,16,Afternoon,December
+A0325,2025-12-22,08:38,Central Road,Slight,Urban single carriageway,T-Junction,30,0,8.0,Fine,789,1,Car,4,8,Morning,December
+A0326,2025-03-26,09:34,Hill View Road,Slight,Single carriageway,Crossroads,50,0,10.0,Fine,579,1,Car,1,9,Morning,March
+A0327,2025-03-28,08:30,Lake Road,Slight,Single carriageway,T-Junction,50,1,6.0,Rain,616,1,Van,1,8,Morning,March
+A0328,2025-01-14,20:09,Central Road,Serious,Dual carriageway,Crossroads,50,0,10.0,Fine,421,0,Car,1,20,Evening,January
+A0329,2025-02-21,17:39,Market Street,Slight,Urban single carriageway,No Junction,20,0,10.0,Fine,894,1,Heavy goods vehicle,2,17,Evening,February
+A0330,2025-07-22,18:44,Industrial Road,Serious,Dual carriageway,No Junction,50,0,8.0,Fine,606,1,Bus,4,18,Evening,July
+A0331,2025-07-19,10:42,Central Road,Serious,Single carriageway,T-Junction,30,0,8.0,Fine,568,0,Motorcycle,2,10,Morning,July
+A0332,2025-05-16,12:04,Market Street,Slight,Single carriageway,Crossroads,40,0,1.0,Fog,654,0,Car,2,12,Afternoon,May
+A0333,2025-04-24,13:42,Ring Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,513,0,Heavy goods vehicle,1,13,Afternoon,April
+A0334,2025-10-30,19:43,Market Street,Slight,Urban single carriageway,T-Junction,30,0,8.0,Fine,632,1,Van,1,19,Evening,October
+A0335,2025-06-17,19:11,Market Street,Serious,Single carriageway,No Junction,40,1,5.0,Rain,800,1,Van,1,19,Evening,June
+A0336,2025-10-23,08:50,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,695,1,Car,2,8,Morning,October
+A0337,2025-12-18,22:31,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,395,0,Van,1,22,Late night,December
+A0338,2025-04-26,07:28,Ring Road,Serious,Single carriageway,Crossroads,30,0,10.0,Fine,784,1,Van,1,7,Morning,April
+A0339,2025-03-15,21:43,Hill View Road,Serious,Single carriageway,Crossroads,40,0,8.0,Fine,347,0,Heavy goods vehicle,1,21,Late night,March
+A0340,2025-12-14,07:30,Ring Road,Slight,Urban single carriageway,No Junction,30,1,5.0,Rain,445,1,Motorcycle,1,7,Morning,December
+A0341,2025-08-20,09:32,Central Road,Serious,Urban single carriageway,Roundabout,20,0,4.0,Fog,891,1,Motorcycle,1,9,Morning,August
+A0342,2025-04-17,20:18,Lake Road,Slight,Urban single carriageway,T-Junction,30,0,2.0,Fog,376,0,Motorcycle,1,20,Evening,April
+A0343,2025-08-15,08:55,Central Road,Fatal,Urban single carriageway,T-Junction,20,0,3.0,Fog,634,1,Van,2,8,Morning,August
+A0344,2025-07-07,13:58,Hill View Road,Serious,Single carriageway,No Junction,40,0,12.0,Fine,414,0,Heavy goods vehicle,2,13,Afternoon,July
+A0345,2025-11-27,14:07,Market Street,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,713,0,Motorcycle,1,14,Afternoon,November
+A0346,2025-04-04,09:43,Lake Road,Slight,Dual carriageway,No Junction,50,1,5.0,Rain,523,1,Car,2,9,Morning,April
+A0347,2025-12-28,18:01,Central Road,Slight,Urban single carriageway,No Junction,30,0,2.0,Fog,1043,1,Car,1,18,Evening,December
+A0348,2025-12-08,20:22,Central Road,Serious,Urban single carriageway,T-Junction,40,1,3.0,Rain,506,0,Motorcycle,2,20,Evening,December
+A0349,2025-03-07,20:58,Ring Road,Serious,Dual carriageway,No Junction,60,0,8.0,Fine,438,0,Bus,1,20,Evening,March
+A0350,2025-03-02,11:10,Central Road,Slight,Urban single carriageway,T-Junction,30,1,3.0,Rain,468,0,Car,1,11,Morning,March
+A0351,2025-07-14,16:22,Central Road,Fatal,Single carriageway,Roundabout,40,1,8.0,Rain,814,1,Car,1,16,Afternoon,July
+A0352,2025-01-17,09:13,Hill View Road,Serious,Dual carriageway,Crossroads,50,0,3.0,Fog,636,1,Heavy goods vehicle,1,9,Morning,January
+A0353,2025-04-20,09:43,Lake Road,Serious,Dual carriageway,T-Junction,60,1,5.0,Rain,501,1,Motorcycle,1,9,Morning,April
+A0354,2025-06-08,08:27,Central Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,1092,1,Car,2,8,Morning,June
+A0355,2025-12-20,22:35,Lake Road,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,180,0,Car,2,22,Late night,December
+A0356,2025-12-29,20:56,Lake Road,Slight,Single carriageway,Crossroads,30,0,12.0,Fine,380,0,Car,1,20,Evening,December
+A0357,2025-02-25,19:31,Lake Road,Serious,Dual carriageway,T-Junction,50,0,10.0,Fine,746,1,Car,1,19,Evening,February
+A0358,2025-11-22,15:44,Hill View Road,Serious,Dual carriageway,T-Junction,50,0,2.0,Fog,611,0,Motorcycle,2,15,Afternoon,November
+A0359,2025-02-03,15:05,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,542,0,Motorcycle,1,15,Afternoon,February
+A0360,2025-10-01,16:12,Ring Road,Serious,Urban single carriageway,T-Junction,20,0,12.0,Fine,529,1,Motorcycle,1,16,Afternoon,October
+A0361,2025-11-05,16:56,Hill View Road,Slight,Urban single carriageway,No Junction,30,0,12.0,Fine,671,1,Motorcycle,1,16,Afternoon,November
+A0362,2025-11-22,14:51,Industrial Road,Slight,Urban single carriageway,No Junction,20,1,5.0,Rain,321,0,Car,1,14,Afternoon,November
+A0363,2025-03-23,07:39,Central Road,Serious,Single carriageway,Crossroads,30,0,8.0,Fine,900,1,Car,1,7,Morning,March
+A0364,2025-11-23,07:22,Market Street,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,646,1,Car,1,7,Morning,November
+A0365,2025-02-12,22:11,Central Road,Serious,Urban single carriageway,Roundabout,30,0,2.0,Fog,309,0,Car,1,22,Late night,February
+A0366,2025-07-09,15:51,Industrial Road,Slight,Urban single carriageway,Roundabout,30,0,12.0,Fine,509,0,Van,2,15,Afternoon,July
+A0367,2025-06-21,22:47,Market Street,Slight,Single carriageway,T-Junction,40,0,8.0,Fine,434,0,Car,2,22,Late night,June
+A0368,2025-04-26,08:14,Hill View Road,Slight,Urban single carriageway,Roundabout,40,0,10.0,Fine,623,1,Motorcycle,1,8,Morning,April
+A0369,2025-01-09,16:35,Lake Road,Slight,Single carriageway,Crossroads,40,0,12.0,Fine,801,1,Car,1,16,Afternoon,January
+A0370,2025-10-09,08:37,Industrial Road,Slight,Urban single carriageway,T-Junction,20,1,8.0,Rain,802,1,Car,2,8,Morning,October
+A0371,2025-05-03,09:28,Central Road,Serious,Dual carriageway,Roundabout,50,0,3.0,Fog,874,1,Car,2,9,Morning,May
+A0372,2025-08-30,04:55,Lake Road,Slight,Urban single carriageway,Roundabout,40,0,12.0,Fine,107,0,Motorcycle,1,4,Late night,August
+A0373,2025-05-30,07:07,Lake Road,Fatal,Single carriageway,No Junction,40,1,2.0,Snow,819,1,Motorcycle,1,7,Morning,May
+A0374,2025-05-17,21:15,Central Road,Slight,Urban single carriageway,Crossroads,30,1,5.0,Rain,509,0,Van,2,21,Late night,May
+A0375,2025-11-20,11:05,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,8.0,Fine,603,0,Car,1,11,Morning,November
+A0376,2025-02-04,17:41,Market Street,Serious,Urban single carriageway,Crossroads,20,0,12.0,Fine,1012,1,Motorcycle,1,17,Evening,February
+A0377,2025-09-26,14:38,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,12.0,Fine,481,0,Van,2,14,Afternoon,September
+A0378,2025-09-30,13:59,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,1.0,Fog,533,0,Car,2,13,Afternoon,September
+A0379,2025-05-19,16:32,Market Street,Serious,Single carriageway,T-Junction,50,0,8.0,Fine,501,1,Car,2,16,Afternoon,May
+A0380,2025-04-06,08:09,Central Road,Serious,Single carriageway,T-Junction,30,0,10.0,Fine,790,1,Car,1,8,Morning,April
+A0381,2025-01-02,23:27,Central Road,Slight,Urban single carriageway,Roundabout,30,1,5.0,Rain,500,0,Car,3,23,Late night,January
+A0382,2025-12-08,19:05,Central Road,Slight,Single carriageway,T-Junction,30,0,3.0,Fog,902,1,Heavy goods vehicle,3,19,Evening,December
+A0383,2025-12-12,18:40,Hill View Road,Fatal,Single carriageway,Crossroads,50,1,5.0,Rain,528,1,Car,1,18,Evening,December
+A0384,2025-03-29,14:40,Market Street,Slight,Urban single carriageway,Roundabout,30,1,6.0,Rain,560,0,Motorcycle,1,14,Afternoon,March
+A0385,2025-01-12,08:51,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,556,1,Van,1,8,Morning,January
+A0386,2025-02-14,21:20,Hill View Road,Slight,Urban single carriageway,No Junction,30,0,2.0,Fog,471,0,Car,1,21,Late night,February
+A0387,2025-01-25,11:18,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,8.0,Fine,241,0,Motorcycle,1,11,Morning,January
+A0388,2025-10-31,06:04,Ring Road,Serious,Single carriageway,T-Junction,40,0,12.0,Fine,343,0,Car,1,6,Morning,October
+A0389,2025-11-22,11:24,Industrial Road,Fatal,Dual carriageway,No Junction,50,1,3.0,Snow,628,0,Motorcycle,1,11,Morning,November
+A0390,2025-02-25,19:28,Market Street,Slight,Dual carriageway,T-Junction,60,0,10.0,Fine,762,1,Car,1,19,Evening,February
+A0391,2025-09-30,17:45,Lake Road,Serious,Dual carriageway,Roundabout,70,0,10.0,Fine,702,1,Car,1,17,Evening,September
+A0392,2025-03-07,18:45,Central Road,Serious,Single carriageway,Roundabout,50,1,8.0,Rain,788,1,Car,1,18,Evening,March
+A0393,2025-05-15,19:08,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,674,1,Van,3,19,Evening,May
+A0394,2025-08-07,08:17,Industrial Road,Serious,Urban single carriageway,Roundabout,30,0,10.0,Fine,615,1,Motorcycle,4,8,Morning,August
+A0395,2025-09-20,21:30,Lake Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,492,0,Van,1,21,Late night,September
+A0396,2025-11-16,14:20,Ring Road,Slight,Urban single carriageway,No Junction,30,1,8.0,Rain,265,0,Car,1,14,Afternoon,November
+A0397,2025-01-17,17:01,Ring Road,Serious,Urban single carriageway,T-Junction,30,1,5.0,Rain,467,1,Heavy goods vehicle,2,17,Evening,January
+A0398,2025-03-13,00:50,Market Street,Serious,Single carriageway,T-Junction,40,0,10.0,Fine,377,0,Car,1,0,Late night,March
+A0399,2025-04-13,23:43,Hill View Road,Slight,Urban single carriageway,Roundabout,20,0,10.0,Fine,208,0,Bus,3,23,Late night,April
+A0400,2025-04-24,10:31,Lake Road,Serious,Urban single carriageway,T-Junction,30,1,6.0,Rain,457,0,Van,2,10,Morning,April
+A0401,2025-12-31,06:19,Industrial Road,Slight,Single carriageway,T-Junction,30,0,12.0,Fine,245,0,Motorcycle,1,6,Morning,December
+A0402,2025-10-11,14:50,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,12.0,Fine,618,0,Motorcycle,1,14,Afternoon,October
+A0403,2025-04-27,07:02,Central Road,Slight,Dual carriageway,Crossroads,50,0,10.0,Fine,826,1,Van,1,7,Morning,April
+A0404,2025-12-21,08:26,Ring Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,673,1,Van,1,8,Morning,December
+A0405,2025-07-02,17:48,Central Road,Slight,Single carriageway,Crossroads,40,0,12.0,Fine,829,1,Car,1,17,Evening,July
+A0406,2025-07-02,13:57,Central Road,Slight,Urban single carriageway,Crossroads,30,1,8.0,Rain,690,0,Van,2,13,Afternoon,July
+A0407,2025-06-08,21:15,Market Street,Serious,Single carriageway,Crossroads,30,0,3.0,Fog,647,0,Car,1,21,Late night,June
+A0408,2025-02-22,11:39,Hill View Road,Slight,Urban single carriageway,No Junction,30,0,8.0,Fine,474,0,Motorcycle,1,11,Morning,February
+A0409,2025-12-08,18:11,Central Road,Slight,Urban single carriageway,Crossroads,40,1,5.0,Rain,883,1,Motorcycle,1,18,Evening,December
+A0410,2025-01-06,14:06,Central Road,Slight,Single carriageway,Crossroads,50,0,12.0,Fine,407,0,Bus,1,14,Afternoon,January
+A0411,2025-03-05,17:21,Central Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,631,1,Motorcycle,1,17,Evening,March
+A0412,2025-03-25,17:53,Lake Road,Serious,Urban single carriageway,Crossroads,40,1,6.0,Rain,642,1,Car,1,17,Evening,March
+A0413,2025-04-12,15:41,Hill View Road,Serious,Dual carriageway,No Junction,60,0,10.0,Fine,410,0,Motorcycle,1,15,Afternoon,April
+A0414,2025-02-18,22:29,Central Road,Slight,Urban single carriageway,No Junction,40,0,2.0,Fog,447,0,Car,2,22,Late night,February
+A0415,2025-01-07,11:16,Central Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,592,0,Motorcycle,1,11,Morning,January
+A0416,2025-09-05,08:08,Ring Road,Serious,Single carriageway,T-Junction,30,0,10.0,Fine,708,1,Motorcycle,1,8,Morning,September
+A0417,2025-12-20,18:16,Market Street,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,685,1,Van,2,18,Evening,December
+A0418,2025-02-14,20:09,Ring Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,428,0,Car,1,20,Evening,February
+A0419,2025-04-19,05:11,Market Street,Slight,Urban single carriageway,T-Junction,30,0,3.0,Fog,255,0,Car,1,5,Late night,April
+A0420,2025-07-04,14:41,Industrial Road,Slight,Single carriageway,Crossroads,50,1,8.0,Rain,548,0,Motorcycle,1,14,Afternoon,July
+A0421,2025-12-05,20:07,Market Street,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,402,0,Car,2,20,Evening,December
+A0422,2025-09-11,18:02,Hill View Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,684,1,Car,1,18,Evening,September
+A0423,2025-10-07,23:32,Central Road,Slight,Urban single carriageway,Crossroads,30,1,3.0,Rain,243,0,Car,1,23,Late night,October
+A0424,2025-08-01,16:17,Industrial Road,Serious,Dual carriageway,Crossroads,60,1,3.0,Rain,691,1,Motorcycle,2,16,Afternoon,August
+A0425,2025-06-02,17:27,Industrial Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,819,1,Car,1,17,Evening,June
+A0426,2025-03-14,10:08,Hill View Road,Serious,Dual carriageway,T-Junction,70,0,8.0,Fine,452,0,Motorcycle,2,10,Morning,March
+A0427,2025-11-12,22:12,Ring Road,Slight,Single carriageway,Crossroads,40,0,12.0,Fine,65,0,Bus,1,22,Late night,November
+A0428,2025-10-21,12:26,Central Road,Serious,Single carriageway,Crossroads,50,0,12.0,Fine,522,0,Motorcycle,1,12,Afternoon,October
+A0429,2025-01-10,18:41,Lake Road,Slight,Single carriageway,Crossroads,30,0,8.0,Fine,499,1,Car,1,18,Evening,January
+A0430,2025-09-19,13:24,Hill View Road,Serious,Dual carriageway,Crossroads,70,0,10.0,Fine,260,0,Car,2,13,Afternoon,September
+A0431,2025-01-31,16:32,Central Road,Slight,Single carriageway,No Junction,30,0,10.0,Fine,821,1,Car,2,16,Afternoon,January
+A0432,2025-09-27,18:31,Ring Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,706,1,Motorcycle,1,18,Evening,September
+A0433,2025-10-29,15:16,Ring Road,Serious,Single carriageway,T-Junction,30,0,12.0,Fine,474,0,Motorcycle,1,15,Afternoon,October
+A0434,2025-02-17,21:16,Lake Road,Serious,Single carriageway,T-Junction,40,0,2.0,Fog,490,0,Car,1,21,Late night,February
+A0435,2025-06-08,13:25,Hill View Road,Slight,Urban single carriageway,Roundabout,30,0,8.0,Fine,428,0,Car,1,13,Afternoon,June
+A0436,2025-02-15,17:01,Hill View Road,Serious,Urban single carriageway,Roundabout,20,0,8.0,Fine,622,1,Car,2,17,Evening,February
+A0437,2025-07-27,11:41,Hill View Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,322,0,Car,1,11,Morning,July
+A0438,2025-12-05,13:36,Market Street,Slight,Dual carriageway,Crossroads,60,0,12.0,Fine,545,0,Heavy goods vehicle,1,13,Afternoon,December
+A0439,2025-01-30,14:18,Market Street,Slight,Urban single carriageway,T-Junction,20,0,2.0,Fog,457,0,Car,1,14,Afternoon,January
+A0440,2025-05-26,07:22,Central Road,Slight,Dual carriageway,T-Junction,60,0,10.0,Fine,725,1,Car,1,7,Morning,May
+A0441,2025-12-22,07:19,Lake Road,Fatal,Single carriageway,Crossroads,30,0,8.0,Fine,658,1,Car,1,7,Morning,December
+A0442,2025-04-20,18:39,Market Street,Slight,Single carriageway,T-Junction,30,0,4.0,Fog,798,1,Car,1,18,Evening,April
+A0443,2025-02-18,17:45,Market Street,Slight,Urban single carriageway,T-Junction,20,1,5.0,Rain,1116,1,Car,1,17,Evening,February
+A0444,2025-06-28,18:06,Central Road,Serious,Dual carriageway,T-Junction,60,1,6.0,Rain,675,1,Car,3,18,Evening,June
+A0445,2025-07-05,01:24,Central Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,377,0,Car,1,1,Late night,July
+A0446,2025-08-30,11:00,Ring Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,287,0,Car,2,11,Morning,August
+A0447,2025-04-25,08:27,Central Road,Slight,Urban single carriageway,T-Junction,30,1,3.0,Rain,771,1,Motorcycle,1,8,Morning,April
+A0448,2025-12-15,19:14,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,775,1,Motorcycle,1,19,Evening,December
+A0449,2025-07-10,20:20,Hill View Road,Serious,Urban single carriageway,Crossroads,30,1,5.0,Rain,514,0,Car,2,20,Evening,July
+A0450,2025-04-15,09:27,Market Street,Slight,Single carriageway,No Junction,50,1,6.0,Rain,765,1,Bus,2,9,Morning,April
+A0451,2025-12-17,18:19,Market Street,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,790,1,Car,1,18,Evening,December
+A0452,2025-12-04,07:23,Market Street,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,766,1,Heavy goods vehicle,1,7,Morning,December
+A0453,2025-07-02,10:45,Lake Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,289,0,Heavy goods vehicle,1,10,Morning,July
+A0454,2025-01-10,07:48,Market Street,Slight,Single carriageway,No Junction,40,0,8.0,Fine,744,1,Motorcycle,2,7,Morning,January
+A0455,2025-08-06,10:00,Hill View Road,Slight,Dual carriageway,Roundabout,60,1,5.0,Rain,391,0,Car,1,10,Morning,August
+A0456,2025-07-22,18:22,Industrial Road,Slight,Dual carriageway,No Junction,50,1,6.0,Rain,737,1,Bus,1,18,Evening,July
+A0457,2025-02-24,21:50,Hill View Road,Serious,Urban single carriageway,Roundabout,40,0,10.0,Fine,485,0,Car,1,21,Late night,February
+A0458,2025-08-20,08:31,Market Street,Slight,Dual carriageway,T-Junction,70,1,6.0,Rain,786,1,Car,1,8,Morning,August
+A0459,2025-11-03,16:12,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,8.0,Fine,624,1,Motorcycle,2,16,Afternoon,November
+A0460,2025-02-08,18:35,Ring Road,Slight,Dual carriageway,Crossroads,50,1,6.0,Rain,477,1,Motorcycle,1,18,Evening,February
+A0461,2025-09-22,22:08,Market Street,Slight,Dual carriageway,Roundabout,50,0,10.0,Fine,443,0,Bus,3,22,Late night,September
+A0462,2025-02-21,17:01,Ring Road,Slight,Single carriageway,T-Junction,40,1,8.0,Rain,580,1,Van,1,17,Evening,February
+A0463,2025-10-01,09:37,Market Street,Slight,Urban single carriageway,Crossroads,40,1,6.0,Rain,884,1,Bus,1,9,Morning,October
+A0464,2025-06-02,17:30,Central Road,Slight,Single carriageway,No Junction,40,0,12.0,Fine,941,1,Van,1,17,Evening,June
+A0465,2025-01-03,11:45,Market Street,Slight,Urban single carriageway,T-Junction,20,0,8.0,Fine,571,0,Motorcycle,1,11,Morning,January
+A0466,2025-12-19,23:20,Central Road,Serious,Single carriageway,Crossroads,40,0,2.0,Fog,287,0,Motorcycle,2,23,Late night,December
+A0467,2025-03-02,13:51,Market Street,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,588,0,Heavy goods vehicle,1,13,Afternoon,March
+A0468,2025-08-06,18:25,Ring Road,Slight,Single carriageway,No Junction,40,1,5.0,Rain,684,1,Heavy goods vehicle,1,18,Evening,August
+A0469,2025-03-08,02:44,Industrial Road,Serious,Dual carriageway,No Junction,50,0,3.0,Fog,278,0,Bus,3,2,Late night,March
+A0470,2025-12-07,13:06,Central Road,Slight,Urban single carriageway,T-Junction,30,0,2.0,Fog,533,0,Van,1,13,Afternoon,December
+A0471,2025-09-27,20:05,Ring Road,Serious,Urban single carriageway,No Junction,30,0,12.0,Fine,486,0,Motorcycle,1,20,Evening,September
+A0472,2025-10-21,17:46,Ring Road,Slight,Single carriageway,No Junction,50,0,8.0,Fine,699,1,Car,1,17,Evening,October
+A0473,2025-06-07,14:50,Central Road,Slight,Urban single carriageway,No Junction,20,1,5.0,Snow,555,0,Bus,1,14,Afternoon,June
+A0474,2025-06-20,21:56,Central Road,Serious,Urban single carriageway,No Junction,30,0,10.0,Fine,424,0,Car,2,21,Late night,June
+A0475,2025-08-20,20:19,Central Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,635,0,Car,1,20,Evening,August
+A0476,2025-10-14,11:01,Central Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,513,0,Car,1,11,Morning,October
+A0477,2025-11-06,16:58,Market Street,Serious,Single carriageway,T-Junction,50,1,5.0,Rain,831,1,Motorcycle,1,16,Afternoon,November
+A0478,2025-01-07,15:36,Market Street,Fatal,Single carriageway,Roundabout,40,0,12.0,Fine,605,0,Motorcycle,1,15,Afternoon,January
+A0479,2025-08-31,17:14,Ring Road,Slight,Urban single carriageway,Crossroads,20,0,12.0,Fine,461,1,Car,1,17,Evening,August
+A0480,2025-02-09,11:45,Central Road,Slight,Single carriageway,Roundabout,40,0,12.0,Fine,598,0,Car,1,11,Morning,February
+A0481,2025-04-16,09:54,Central Road,Slight,Urban single carriageway,No Junction,30,1,8.0,Rain,861,1,Car,2,9,Morning,April
+A0482,2025-10-30,21:17,Central Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,653,0,Car,1,21,Late night,October
+A0483,2025-04-02,21:46,Ring Road,Slight,Single carriageway,No Junction,40,0,2.0,Fog,441,0,Car,1,21,Late night,April
+A0484,2025-10-18,20:47,Market Street,Slight,Urban single carriageway,T-Junction,20,1,8.0,Rain,392,0,Motorcycle,1,20,Evening,October
+A0485,2025-06-18,23:30,Ring Road,Slight,Single carriageway,Crossroads,40,1,2.0,Snow,357,0,Car,1,23,Late night,June
+A0486,2025-03-26,18:37,Central Road,Serious,Dual carriageway,Crossroads,50,0,3.0,Fog,851,1,Car,1,18,Evening,March
+A0487,2025-05-02,19:16,Central Road,Slight,Single carriageway,No Junction,30,0,10.0,Fine,689,1,Car,1,19,Evening,May
+A0488,2025-07-13,19:55,Industrial Road,Serious,Single carriageway,T-Junction,40,1,6.0,Rain,651,1,Motorcycle,2,19,Evening,July
+A0489,2025-10-07,15:58,Central Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,613,0,Bus,1,15,Afternoon,October
+A0490,2025-08-10,14:58,Central Road,Serious,Urban single carriageway,Roundabout,20,1,3.0,Snow,657,0,Car,1,14,Afternoon,August
+A0491,2025-12-07,09:44,Central Road,Fatal,Urban single carriageway,T-Junction,30,0,8.0,Fine,761,1,Car,1,9,Morning,December
+A0492,2025-11-13,17:02,Industrial Road,Slight,Single carriageway,T-Junction,40,1,6.0,Rain,812,1,Motorcycle,1,17,Evening,November
+A0493,2025-10-02,10:21,Ring Road,Serious,Dual carriageway,No Junction,60,1,6.0,Rain,250,0,Car,1,10,Morning,October
+A0494,2025-08-09,09:26,Ring Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,545,1,Bus,2,9,Morning,August
+A0495,2025-04-16,17:57,Industrial Road,Serious,Urban single carriageway,Roundabout,30,1,5.0,Rain,523,1,Heavy goods vehicle,1,17,Evening,April
+A0496,2025-05-31,13:32,Central Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,500,0,Motorcycle,1,13,Afternoon,May
+A0497,2025-02-13,08:32,Industrial Road,Slight,Single carriageway,No Junction,30,0,10.0,Fine,880,1,Heavy goods vehicle,1,8,Morning,February
+A0498,2025-05-17,19:08,Central Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,1015,1,Car,1,19,Evening,May
+A0499,2025-12-05,20:47,Ring Road,Serious,Single carriageway,T-Junction,30,0,8.0,Fine,453,0,Car,1,20,Evening,December
+A0500,2025-06-05,08:20,Market Street,Serious,Dual carriageway,Crossroads,50,0,10.0,Fine,746,1,Car,1,8,Morning,June
+A0501,2025-02-11,00:05,Market Street,Serious,Urban single carriageway,T-Junction,20,0,1.0,Fog,367,0,Car,3,0,Late night,February
+A0502,2025-08-26,11:59,Industrial Road,Slight,Single carriageway,Roundabout,50,0,10.0,Fine,557,0,Car,1,11,Morning,August
+A0503,2025-12-18,19:11,Central Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,653,1,Motorcycle,1,19,Evening,December
+A0504,2025-11-13,20:00,Industrial Road,Serious,Urban single carriageway,T-Junction,30,0,3.0,Fog,452,0,Motorcycle,2,20,Evening,November
+A0505,2025-04-11,07:04,Market Street,Serious,Dual carriageway,Crossroads,70,1,6.0,Rain,953,1,Car,1,7,Morning,April
+A0506,2025-06-15,19:27,Hill View Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,545,1,Motorcycle,1,19,Evening,June
+A0507,2025-07-13,07:06,Industrial Road,Serious,Single carriageway,No Junction,40,0,1.0,Fog,655,1,Car,1,7,Morning,July
+A0508,2025-04-01,13:50,Central Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,591,0,Car,1,13,Afternoon,April
+A0509,2025-04-09,23:30,Industrial Road,Serious,Dual carriageway,Crossroads,50,0,10.0,Fine,338,0,Car,1,23,Late night,April
+A0510,2025-03-28,08:19,Ring Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,587,1,Van,1,8,Morning,March
+A0511,2025-12-30,08:00,Hill View Road,Serious,Urban single carriageway,T-Junction,30,1,6.0,Rain,657,1,Motorcycle,2,8,Morning,December
+A0512,2025-09-30,13:28,Central Road,Serious,Dual carriageway,T-Junction,60,0,10.0,Fine,650,0,Van,2,13,Afternoon,September
+A0513,2025-11-03,17:09,Ring Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,846,1,Car,1,17,Evening,November
+A0514,2025-10-26,21:58,Hill View Road,Slight,Single carriageway,Roundabout,40,1,5.0,Rain,417,0,Motorcycle,1,21,Late night,October
+A0515,2025-12-17,23:17,Ring Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,225,0,Heavy goods vehicle,1,23,Late night,December
+A0516,2025-02-08,06:28,Central Road,Slight,Urban single carriageway,T-Junction,30,0,8.0,Fine,542,0,Car,1,6,Morning,February
+A0517,2025-11-18,07:01,Central Road,Slight,Single carriageway,Crossroads,40,1,6.0,Rain,755,1,Car,1,7,Morning,November
+A0518,2025-01-25,19:07,Lake Road,Serious,Dual carriageway,No Junction,50,1,8.0,Rain,517,1,Car,1,19,Evening,January
+A0519,2025-06-23,09:12,Central Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,835,1,Car,1,9,Morning,June
+A0520,2025-08-05,20:03,Hill View Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,537,0,Motorcycle,2,20,Evening,August
+A0521,2025-05-11,18:43,Industrial Road,Serious,Dual carriageway,Crossroads,50,0,1.0,Fog,766,1,Car,1,18,Evening,May
+A0522,2025-02-23,07:56,Central Road,Serious,Single carriageway,Roundabout,40,0,12.0,Fine,800,1,Motorcycle,1,7,Morning,February
+A0523,2025-03-12,19:59,Central Road,Slight,Dual carriageway,No Junction,50,0,8.0,Fine,665,1,Heavy goods vehicle,1,19,Evening,March
+A0524,2025-10-29,08:15,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,644,1,Car,1,8,Morning,October
+A0525,2025-04-27,13:47,Central Road,Slight,Dual carriageway,Crossroads,50,0,12.0,Fine,713,0,Car,1,13,Afternoon,April
+A0526,2025-04-24,16:30,Ring Road,Slight,Urban single carriageway,Crossroads,30,1,3.0,Snow,526,1,Bus,1,16,Afternoon,April
+A0527,2025-12-04,15:02,Hill View Road,Slight,Single carriageway,Roundabout,40,0,8.0,Fine,405,0,Motorcycle,1,15,Afternoon,December
+A0528,2025-02-22,18:05,Ring Road,Slight,Single carriageway,No Junction,50,0,10.0,Fine,611,1,Heavy goods vehicle,2,18,Evening,February
+A0529,2025-12-01,17:32,Market Street,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,740,1,Car,2,17,Evening,December
+A0530,2025-12-03,23:25,Hill View Road,Serious,Dual carriageway,T-Junction,50,0,8.0,Fine,254,0,Motorcycle,1,23,Late night,December
+A0531,2025-08-07,23:00,Ring Road,Serious,Single carriageway,Roundabout,40,0,10.0,Fine,274,0,Heavy goods vehicle,1,23,Late night,August
+A0532,2025-03-02,15:55,Central Road,Serious,Single carriageway,Roundabout,30,1,3.0,Snow,633,0,Car,1,15,Afternoon,March
+A0533,2025-02-26,07:43,Ring Road,Slight,Single carriageway,Crossroads,30,1,5.0,Rain,552,1,Van,1,7,Morning,February
+A0534,2025-04-14,18:30,Lake Road,Slight,Single carriageway,Crossroads,50,0,10.0,Fine,485,1,Motorcycle,4,18,Evening,April
+A0535,2025-07-30,23:59,Hill View Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,256,0,Van,1,23,Late night,July
+A0536,2025-02-26,11:58,Ring Road,Serious,Urban single carriageway,Roundabout,40,0,10.0,Fine,379,0,Car,1,11,Morning,February
+A0537,2025-06-16,14:58,Market Street,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,773,0,Motorcycle,2,14,Afternoon,June
+A0538,2025-02-12,13:15,Central Road,Serious,Dual carriageway,Roundabout,50,0,10.0,Fine,778,0,Car,1,13,Afternoon,February
+A0539,2025-07-17,06:52,Central Road,Slight,Single carriageway,No Junction,40,0,8.0,Fine,589,0,Heavy goods vehicle,1,6,Morning,July
+A0540,2025-01-08,18:30,Central Road,Serious,Single carriageway,T-Junction,50,1,6.0,Rain,715,1,Car,1,18,Evening,January
+A0541,2025-09-16,12:43,Industrial Road,Slight,Urban single carriageway,T-Junction,20,0,2.0,Fog,566,0,Car,1,12,Afternoon,September
+A0542,2025-01-21,19:51,Central Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,897,1,Heavy goods vehicle,1,19,Evening,January
+A0543,2025-03-13,19:09,Lake Road,Serious,Urban single carriageway,No Junction,20,0,3.0,Fog,725,1,Car,3,19,Evening,March
+A0544,2025-03-05,19:26,Central Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,774,1,Motorcycle,1,19,Evening,March
+A0545,2025-10-31,13:07,Market Street,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,717,0,Car,1,13,Afternoon,October
+A0546,2025-01-20,11:16,Market Street,Slight,Urban single carriageway,Crossroads,30,1,6.0,Rain,590,0,Motorcycle,1,11,Morning,January
+A0547,2025-06-06,18:24,Market Street,Fatal,Urban single carriageway,Roundabout,20,0,10.0,Fine,822,1,Car,1,18,Evening,June
+A0548,2025-08-04,19:51,Lake Road,Serious,Single carriageway,Roundabout,40,0,10.0,Fine,496,1,Motorcycle,1,19,Evening,August
+A0549,2025-07-08,15:51,Industrial Road,Slight,Single carriageway,Roundabout,40,1,5.0,Rain,574,0,Motorcycle,2,15,Afternoon,July
+A0550,2025-09-06,20:23,Lake Road,Serious,Urban single carriageway,Crossroads,20,0,10.0,Fine,403,0,Car,1,20,Evening,September
+A0551,2025-10-21,07:19,Central Road,Serious,Urban single carriageway,No Junction,30,0,3.0,Fog,856,1,Car,1,7,Morning,October
+A0552,2025-05-24,20:31,Lake Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,453,0,Car,1,20,Evening,May
+A0553,2025-10-30,07:54,Central Road,Slight,Single carriageway,Roundabout,30,1,8.0,Rain,828,1,Van,1,7,Morning,October
+A0554,2025-04-27,08:58,Industrial Road,Slight,Single carriageway,Roundabout,50,0,10.0,Fine,725,1,Car,1,8,Morning,April
+A0555,2025-12-26,16:13,Ring Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,728,1,Car,2,16,Afternoon,December
+A0556,2025-07-04,06:11,Market Street,Slight,Urban single carriageway,No Junction,30,0,12.0,Fine,370,0,Car,1,6,Morning,July
+A0557,2025-09-26,06:42,Central Road,Serious,Dual carriageway,T-Junction,60,0,1.0,Fog,244,0,Motorcycle,2,6,Morning,September
+A0558,2025-11-16,00:18,Central Road,Slight,Urban single carriageway,T-Junction,30,0,8.0,Fine,446,0,Van,2,0,Late night,November
+A0559,2025-10-17,14:11,Central Road,Serious,Single carriageway,T-Junction,30,0,2.0,Fog,509,0,Motorcycle,1,14,Afternoon,October
+A0560,2025-11-07,19:01,Industrial Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,597,1,Bus,2,19,Evening,November
+A0561,2025-07-15,05:24,Lake Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,127,0,Motorcycle,2,5,Late night,July
+A0562,2025-01-16,17:23,Industrial Road,Slight,Urban single carriageway,Crossroads,30,0,12.0,Fine,758,1,Bus,3,17,Evening,January
+A0563,2025-06-29,19:33,Central Road,Slight,Dual carriageway,Crossroads,60,0,10.0,Fine,800,1,Van,1,19,Evening,June
+A0564,2025-03-08,08:12,Ring Road,Slight,Urban single carriageway,No Junction,30,0,2.0,Fog,436,1,Car,1,8,Morning,March
+A0565,2025-11-21,07:42,Market Street,Slight,Single carriageway,No Junction,40,0,10.0,Fine,771,1,Heavy goods vehicle,1,7,Morning,November
+A0566,2025-03-28,20:40,Ring Road,Slight,Urban single carriageway,No Junction,20,1,3.0,Rain,546,0,Van,2,20,Evening,March
+A0567,2025-03-25,19:27,Market Street,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,764,1,Motorcycle,2,19,Evening,March
+A0568,2025-04-02,16:10,Market Street,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,793,1,Car,2,16,Afternoon,April
+A0569,2025-08-23,19:30,Ring Road,Slight,Single carriageway,No Junction,50,0,12.0,Fine,754,1,Car,1,19,Evening,August
+A0570,2025-07-28,07:40,Central Road,Serious,Single carriageway,T-Junction,40,0,3.0,Fog,889,1,Motorcycle,1,7,Morning,July
+A0571,2025-12-13,13:22,Ring Road,Slight,Dual carriageway,Crossroads,70,1,3.0,Rain,532,0,Car,2,13,Afternoon,December
+A0572,2025-06-01,18:15,Hill View Road,Slight,Single carriageway,No Junction,40,0,8.0,Fine,372,1,Motorcycle,1,18,Evening,June
+A0573,2025-04-14,09:30,Central Road,Slight,Dual carriageway,Crossroads,60,1,3.0,Rain,983,1,Car,2,9,Morning,April
+A0574,2025-01-18,19:21,Industrial Road,Slight,Urban single carriageway,T-Junction,20,0,12.0,Fine,793,1,Motorcycle,1,19,Evening,January
+A0575,2025-01-03,15:24,Ring Road,Serious,Single carriageway,Roundabout,30,0,10.0,Fine,676,0,Car,2,15,Afternoon,January
+A0576,2025-05-17,18:20,Lake Road,Slight,Single carriageway,Roundabout,30,1,6.0,Rain,571,1,Car,1,18,Evening,May
+A0577,2025-12-04,14:18,Hill View Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,253,0,Car,1,14,Afternoon,December
+A0578,2025-07-11,12:43,Hill View Road,Serious,Dual carriageway,Roundabout,70,1,8.0,Rain,430,0,Bus,1,12,Afternoon,July
+A0579,2025-11-23,08:27,Hill View Road,Serious,Single carriageway,Crossroads,40,0,1.0,Fog,622,1,Motorcycle,1,8,Morning,November
+A0580,2025-02-07,08:27,Lake Road,Serious,Dual carriageway,No Junction,60,0,3.0,Fog,715,1,Heavy goods vehicle,1,8,Morning,February
+A0581,2025-02-04,18:39,Ring Road,Fatal,Single carriageway,Crossroads,40,1,6.0,Rain,757,1,Van,2,18,Evening,February
+A0582,2025-11-01,07:21,Market Street,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,801,1,Van,1,7,Morning,November
+A0583,2025-02-08,07:06,Central Road,Serious,Single carriageway,No Junction,40,1,6.0,Rain,785,1,Motorcycle,1,7,Morning,February
+A0584,2025-01-19,08:51,Ring Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,702,1,Bus,1,8,Morning,January
+A0585,2025-05-28,08:03,Central Road,Serious,Dual carriageway,Crossroads,60,0,10.0,Fine,784,1,Heavy goods vehicle,4,8,Morning,May
+A0586,2025-12-04,19:34,Central Road,Fatal,Dual carriageway,Roundabout,60,0,12.0,Fine,776,1,Van,2,19,Evening,December
+A0587,2025-09-09,13:15,Central Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,693,0,Car,2,13,Afternoon,September
+A0588,2025-02-06,23:12,Ring Road,Slight,Urban single carriageway,Crossroads,40,0,3.0,Fog,355,0,Motorcycle,2,23,Late night,February
+A0589,2025-11-02,07:02,Central Road,Serious,Urban single carriageway,T-Junction,20,0,2.0,Fog,918,1,Car,1,7,Morning,November
+A0590,2025-11-04,17:54,Ring Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,633,1,Car,2,17,Evening,November
+A0591,2025-10-20,14:25,Lake Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,216,0,Motorcycle,1,14,Afternoon,October
+A0592,2025-11-26,13:20,Lake Road,Slight,Single carriageway,T-Junction,30,1,6.0,Rain,415,0,Bus,1,13,Afternoon,November
+A0593,2025-03-29,20:44,Market Street,Slight,Single carriageway,No Junction,30,0,8.0,Fine,514,0,Car,1,20,Evening,March
+A0594,2025-12-24,23:02,Ring Road,Slight,Dual carriageway,T-Junction,50,1,6.0,Rain,217,0,Car,1,23,Late night,December
+A0595,2025-04-28,20:33,Ring Road,Slight,Urban single carriageway,T-Junction,30,1,3.0,Snow,362,0,Heavy goods vehicle,2,20,Evening,April
+A0596,2025-10-20,08:29,Ring Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,647,1,Car,1,8,Morning,October
+A0597,2025-07-31,08:33,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,546,1,Car,2,8,Morning,July
+A0598,2025-10-12,17:07,Central Road,Slight,Dual carriageway,T-Junction,60,0,12.0,Fine,681,1,Van,3,17,Evening,October
+A0599,2025-08-18,10:57,Industrial Road,Serious,Urban single carriageway,Roundabout,40,0,10.0,Fine,632,0,Bus,1,10,Morning,August
+A0600,2025-08-23,18:14,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,713,1,Motorcycle,1,18,Evening,August
+A0601,2025-08-13,16:40,Lake Road,Serious,Urban single carriageway,Roundabout,40,0,8.0,Fine,650,1,Motorcycle,1,16,Afternoon,August
+A0602,2025-10-12,16:44,Ring Road,Serious,Dual carriageway,Crossroads,50,0,10.0,Fine,745,1,Car,1,16,Afternoon,October
+A0603,2025-09-27,19:20,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,901,1,Car,2,19,Evening,September
+A0604,2025-02-19,18:07,Hill View Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,729,1,Van,1,18,Evening,February
+A0605,2025-10-29,03:17,Central Road,Slight,Single carriageway,T-Junction,30,1,5.0,Rain,420,0,Bus,1,3,Late night,October
+A0606,2025-07-15,06:48,Lake Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,302,0,Car,1,6,Morning,July
+A0607,2025-04-28,17:54,Ring Road,Slight,Urban single carriageway,T-Junction,20,0,3.0,Fog,787,1,Car,1,17,Evening,April
+A0608,2025-07-07,15:56,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,632,0,Car,1,15,Afternoon,July
+A0609,2025-12-19,09:13,Central Road,Slight,Single carriageway,Crossroads,40,0,12.0,Fine,626,1,Car,1,9,Morning,December
+A0610,2025-11-10,13:36,Hill View Road,Serious,Urban single carriageway,No Junction,20,0,8.0,Fine,377,0,Car,1,13,Afternoon,November
+A0611,2025-11-01,19:09,Market Street,Slight,Single carriageway,T-Junction,40,1,3.0,Rain,879,1,Car,2,19,Evening,November
+A0612,2025-06-18,19:42,Lake Road,Serious,Urban single carriageway,Roundabout,30,0,10.0,Fine,587,1,Van,1,19,Evening,June
+A0613,2025-10-14,16:24,Hill View Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,812,1,Car,1,16,Afternoon,October
+A0614,2025-05-21,12:42,Hill View Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,423,0,Motorcycle,1,12,Afternoon,May
+A0615,2025-09-08,09:41,Market Street,Slight,Single carriageway,Roundabout,50,1,3.0,Snow,818,1,Motorcycle,1,9,Morning,September
+A0616,2025-08-22,15:59,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,542,0,Bus,1,15,Afternoon,August
+A0617,2025-04-02,11:29,Industrial Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,491,0,Heavy goods vehicle,2,11,Morning,April
+A0618,2025-04-08,16:20,Central Road,Slight,Urban single carriageway,No Junction,30,0,3.0,Fog,827,1,Car,1,16,Afternoon,April
+A0619,2025-01-23,18:31,Market Street,Slight,Dual carriageway,Crossroads,60,0,12.0,Fine,899,1,Car,1,18,Evening,January
+A0620,2025-02-21,06:09,Central Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,242,0,Van,1,6,Morning,February
+A0621,2025-06-08,00:06,Market Street,Slight,Urban single carriageway,T-Junction,30,1,6.0,Rain,361,0,Car,1,0,Late night,June
+A0622,2025-06-24,08:31,Hill View Road,Serious,Urban single carriageway,T-Junction,40,0,10.0,Fine,732,1,Car,1,8,Morning,June
+A0623,2025-03-02,21:49,Ring Road,Slight,Urban single carriageway,No Junction,40,0,10.0,Fine,436,0,Car,2,21,Late night,March
+A0624,2025-06-02,17:31,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,796,1,Heavy goods vehicle,3,17,Evening,June
+A0625,2025-08-09,08:46,Market Street,Serious,Urban single carriageway,No Junction,30,0,12.0,Fine,652,1,Car,1,8,Morning,August
+A0626,2025-03-26,20:10,Central Road,Slight,Dual carriageway,Roundabout,60,0,1.0,Fog,420,0,Motorcycle,3,20,Evening,March
+A0627,2025-05-04,14:26,Market Street,Serious,Single carriageway,No Junction,40,1,6.0,Rain,666,0,Motorcycle,1,14,Afternoon,May
+A0628,2025-05-15,15:36,Lake Road,Slight,Urban single carriageway,No Junction,30,0,8.0,Fine,516,0,Motorcycle,1,15,Afternoon,May
+A0629,2025-07-04,21:20,Ring Road,Slight,Single carriageway,No Junction,30,0,10.0,Fine,410,0,Car,1,21,Late night,July
+A0630,2025-05-14,06:00,Market Street,Slight,Urban single carriageway,Roundabout,20,1,5.0,Rain,430,0,Bus,1,6,Morning,May
+A0631,2025-09-26,08:04,Lake Road,Slight,Dual carriageway,T-Junction,50,1,8.0,Rain,724,1,Van,1,8,Morning,September
+A0632,2025-04-30,17:55,Central Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,728,1,Motorcycle,1,17,Evening,April
+A0633,2025-06-08,08:36,Market Street,Serious,Single carriageway,Roundabout,40,0,1.0,Fog,739,1,Car,1,8,Morning,June
+A0634,2025-05-19,18:15,Central Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,828,1,Bus,1,18,Evening,May
+A0635,2025-03-08,08:15,Industrial Road,Serious,Urban single carriageway,Roundabout,30,1,6.0,Rain,820,1,Van,3,8,Morning,March
+A0636,2025-09-08,07:02,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,533,1,Car,1,7,Morning,September
+A0637,2025-03-27,08:56,Ring Road,Slight,Urban single carriageway,No Junction,40,0,10.0,Fine,630,1,Car,2,8,Morning,March
+A0638,2025-04-19,13:06,Central Road,Serious,Dual carriageway,Crossroads,60,1,6.0,Rain,565,0,Car,1,13,Afternoon,April
+A0639,2025-10-17,08:45,Central Road,Serious,Single carriageway,No Junction,40,1,6.0,Rain,851,1,Car,1,8,Morning,October
+A0640,2025-12-13,07:14,Hill View Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,649,1,Car,1,7,Morning,December
+A0641,2025-09-02,20:20,Market Street,Slight,Single carriageway,Crossroads,30,0,12.0,Fine,535,0,Car,1,20,Evening,September
+A0642,2025-12-01,11:16,Industrial Road,Slight,Dual carriageway,No Junction,50,1,5.0,Rain,634,0,Car,1,11,Morning,December
+A0643,2025-11-08,12:49,Hill View Road,Slight,Single carriageway,No Junction,40,0,8.0,Fine,376,0,Bus,2,12,Afternoon,November
+A0644,2025-06-25,06:01,Market Street,Serious,Single carriageway,Roundabout,40,0,10.0,Fine,360,0,Van,1,6,Morning,June
+A0645,2025-10-09,12:21,Hill View Road,Slight,Single carriageway,No Junction,30,1,3.0,Rain,270,0,Bus,1,12,Afternoon,October
+A0646,2025-04-30,09:16,Industrial Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,658,1,Motorcycle,3,9,Morning,April
+A0647,2025-06-18,17:16,Ring Road,Slight,Dual carriageway,No Junction,50,0,10.0,Fine,701,1,Motorcycle,1,17,Evening,June
+A0648,2025-07-15,08:11,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,682,1,Car,1,8,Morning,July
+A0649,2025-12-17,20:54,Industrial Road,Slight,Urban single carriageway,T-Junction,40,0,1.0,Fog,569,0,Van,1,20,Evening,December
+A0650,2025-11-06,21:22,Central Road,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,645,0,Car,1,21,Late night,November
+A0651,2025-06-28,07:25,Lake Road,Slight,Urban single carriageway,Crossroads,20,1,6.0,Rain,858,1,Motorcycle,1,7,Morning,June
+A0652,2025-08-27,07:23,Central Road,Fatal,Urban single carriageway,T-Junction,30,1,5.0,Snow,735,1,Heavy goods vehicle,2,7,Morning,August
+A0653,2025-03-15,07:58,Hill View Road,Serious,Urban single carriageway,Roundabout,40,1,6.0,Rain,488,1,Bus,1,7,Morning,March
+A0654,2025-10-21,17:20,Lake Road,Serious,Single carriageway,Crossroads,40,0,10.0,Fine,544,1,Car,1,17,Evening,October
+A0655,2025-07-21,07:20,Ring Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,579,1,Van,2,7,Morning,July
+A0656,2025-07-14,20:19,Ring Road,Serious,Urban single carriageway,T-Junction,40,0,10.0,Fine,332,0,Car,1,20,Evening,July
+A0657,2025-10-07,19:19,Ring Road,Serious,Urban single carriageway,Crossroads,30,0,8.0,Fine,659,1,Car,1,19,Evening,October
+A0658,2025-08-20,19:05,Central Road,Serious,Single carriageway,Roundabout,50,0,1.0,Fog,935,1,Car,2,19,Evening,August
+A0659,2025-01-27,16:36,Central Road,Slight,Dual carriageway,Crossroads,50,1,8.0,Rain,963,1,Car,1,16,Afternoon,January
+A0660,2025-04-16,23:01,Market Street,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,440,0,Motorcycle,1,23,Late night,April
+A0661,2025-03-06,06:13,Ring Road,Serious,Dual carriageway,Roundabout,70,0,10.0,Fine,444,0,Car,2,6,Morning,March
+A0662,2025-09-26,13:12,Market Street,Slight,Dual carriageway,Crossroads,70,0,1.0,Fog,554,0,Car,1,13,Afternoon,September
+A0663,2025-01-13,11:17,Central Road,Slight,Urban single carriageway,Crossroads,30,0,8.0,Fine,426,0,Heavy goods vehicle,2,11,Morning,January
+A0664,2025-03-15,22:45,Lake Road,Slight,Dual carriageway,Roundabout,60,1,6.0,Rain,335,0,Motorcycle,2,22,Late night,March
+A0665,2025-08-07,16:35,Market Street,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,626,1,Car,1,16,Afternoon,August
+A0666,2025-09-11,19:59,Market Street,Slight,Single carriageway,No Junction,40,1,6.0,Rain,734,1,Motorcycle,1,19,Evening,September
+A0667,2025-07-03,08:21,Market Street,Serious,Single carriageway,No Junction,40,1,3.0,Rain,862,1,Motorcycle,1,8,Morning,July
+A0668,2025-11-11,23:55,Central Road,Serious,Dual carriageway,Crossroads,60,0,8.0,Fine,379,0,Motorcycle,1,23,Late night,November
+A0669,2025-12-02,15:02,Hill View Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,410,0,Motorcycle,1,15,Afternoon,December
+A0670,2025-02-18,15:30,Market Street,Slight,Single carriageway,Crossroads,30,1,6.0,Rain,471,0,Heavy goods vehicle,1,15,Afternoon,February
+A0671,2025-12-14,22:47,Central Road,Serious,Dual carriageway,Roundabout,50,0,8.0,Fine,388,0,Car,2,22,Late night,December
+A0672,2025-08-13,12:31,Industrial Road,Slight,Single carriageway,Crossroads,30,0,8.0,Fine,610,0,Motorcycle,1,12,Afternoon,August
+A0673,2025-08-21,13:55,Lake Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,431,0,Car,1,13,Afternoon,August
+A0674,2025-02-04,17:18,Hill View Road,Slight,Dual carriageway,Crossroads,60,0,8.0,Fine,566,1,Bus,1,17,Evening,February
+A0675,2025-08-15,07:01,Lake Road,Slight,Urban single carriageway,Roundabout,30,1,6.0,Rain,525,1,Car,1,7,Morning,August
+A0676,2025-09-22,11:46,Industrial Road,Slight,Urban single carriageway,Crossroads,20,0,8.0,Fine,429,0,Car,1,11,Morning,September
+A0677,2025-07-31,08:04,Market Street,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,849,1,Heavy goods vehicle,1,8,Morning,July
+A0678,2025-01-31,07:45,Ring Road,Serious,Dual carriageway,T-Junction,60,0,3.0,Fog,684,1,Motorcycle,1,7,Morning,January
+A0679,2025-07-10,20:44,Ring Road,Slight,Urban single carriageway,T-Junction,20,0,12.0,Fine,349,0,Car,1,20,Evening,July
+A0680,2025-12-08,17:50,Market Street,Fatal,Single carriageway,No Junction,30,0,12.0,Fine,588,1,Car,1,17,Evening,December
+A0681,2025-09-22,12:28,Central Road,Slight,Urban single carriageway,Crossroads,30,1,5.0,Rain,632,0,Car,1,12,Afternoon,September
+A0682,2025-02-20,13:53,Central Road,Slight,Urban single carriageway,Crossroads,30,0,1.0,Fog,500,0,Heavy goods vehicle,1,13,Afternoon,February
+A0683,2025-12-17,14:10,Hill View Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,498,0,Motorcycle,2,14,Afternoon,December
+A0684,2025-12-16,17:26,Lake Road,Slight,Urban single carriageway,T-Junction,30,1,6.0,Rain,574,1,Car,1,17,Evening,December
+A0685,2025-03-03,21:07,Hill View Road,Serious,Dual carriageway,No Junction,50,0,8.0,Fine,331,0,Motorcycle,1,21,Late night,March
+A0686,2025-10-20,21:46,Market Street,Serious,Urban single carriageway,No Junction,20,0,10.0,Fine,605,0,Car,1,21,Late night,October
+A0687,2025-05-29,13:42,Central Road,Serious,Dual carriageway,No Junction,50,0,2.0,Fog,825,0,Car,1,13,Afternoon,May
+A0688,2025-08-05,11:48,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,1.0,Fog,504,0,Bus,1,11,Morning,August
+A0689,2025-06-12,14:45,Ring Road,Fatal,Dual carriageway,T-Junction,60,0,10.0,Fine,443,0,Car,3,14,Afternoon,June
+A0690,2025-10-13,16:18,Industrial Road,Serious,Single carriageway,Roundabout,40,0,10.0,Fine,765,1,Heavy goods vehicle,1,16,Afternoon,October
+A0691,2025-12-30,14:04,Lake Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,254,0,Van,1,14,Afternoon,December
+A0692,2025-10-18,17:55,Industrial Road,Slight,Urban single carriageway,Roundabout,30,0,12.0,Fine,617,1,Car,2,17,Evening,October
+A0693,2025-12-06,16:29,Lake Road,Slight,Urban single carriageway,Crossroads,20,0,1.0,Fog,398,1,Van,2,16,Afternoon,December
+A0694,2025-12-12,11:05,Industrial Road,Serious,Single carriageway,T-Junction,30,1,3.0,Rain,682,0,Van,1,11,Morning,December
+A0695,2025-02-02,11:55,Ring Road,Slight,Dual carriageway,No Junction,50,0,10.0,Fine,582,0,Motorcycle,1,11,Morning,February
+A0696,2025-04-03,12:59,Central Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,629,0,Motorcycle,2,12,Afternoon,April
+A0697,2025-09-21,07:26,Central Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,823,1,Car,1,7,Morning,September
+A0698,2025-08-04,08:46,Market Street,Slight,Single carriageway,T-Junction,40,0,8.0,Fine,654,1,Car,1,8,Morning,August
+A0699,2025-01-19,18:02,Market Street,Slight,Single carriageway,Crossroads,40,1,8.0,Rain,788,1,Van,2,18,Evening,January
+A0700,2025-02-04,13:05,Central Road,Serious,Single carriageway,T-Junction,50,0,10.0,Fine,769,0,Car,2,13,Afternoon,February
+A0701,2025-07-09,08:16,Industrial Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,743,1,Car,4,8,Morning,July
+A0702,2025-08-13,16:39,Central Road,Serious,Single carriageway,T-Junction,40,1,6.0,Rain,753,1,Motorcycle,1,16,Afternoon,August
+A0703,2025-03-03,19:08,Industrial Road,Slight,Dual carriageway,Crossroads,60,1,5.0,Snow,554,1,Car,2,19,Evening,March
+A0704,2025-03-04,09:02,Hill View Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,788,1,Van,1,9,Morning,March
+A0705,2025-02-17,19:40,Hill View Road,Serious,Urban single carriageway,No Junction,30,0,12.0,Fine,642,1,Van,2,19,Evening,February
+A0706,2025-07-26,21:46,Hill View Road,Serious,Urban single carriageway,T-Junction,30,0,8.0,Fine,254,0,Bus,3,21,Late night,July
+A0707,2025-01-03,17:44,Market Street,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,717,1,Car,1,17,Evening,January
+A0708,2025-07-28,18:47,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,522,1,Motorcycle,1,18,Evening,July
+A0709,2025-06-23,06:48,Central Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,376,0,Bus,2,6,Morning,June
+A0710,2025-06-20,22:36,Industrial Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,330,0,Car,2,22,Late night,June
+A0711,2025-09-05,13:31,Market Street,Serious,Single carriageway,Crossroads,50,0,12.0,Fine,539,0,Motorcycle,1,13,Afternoon,September
+A0712,2025-07-10,21:51,Market Street,Serious,Single carriageway,T-Junction,40,0,1.0,Fog,667,0,Motorcycle,2,21,Late night,July
+A0713,2025-09-23,16:20,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,657,1,Car,1,16,Afternoon,September
+A0714,2025-10-06,00:05,Hill View Road,Fatal,Dual carriageway,T-Junction,60,1,8.0,Rain,336,0,Car,1,0,Late night,October
+A0715,2025-12-02,05:45,Ring Road,Slight,Urban single carriageway,Crossroads,30,1,8.0,Rain,194,0,Motorcycle,1,5,Late night,December
+A0716,2025-10-19,18:16,Hill View Road,Serious,Single carriageway,No Junction,40,1,8.0,Rain,954,1,Car,2,18,Evening,October
+A0717,2025-07-08,16:58,Central Road,Serious,Dual carriageway,Crossroads,50,1,8.0,Rain,753,1,Bus,1,16,Afternoon,July
+A0718,2025-06-29,03:24,Hill View Road,Serious,Single carriageway,Crossroads,40,1,3.0,Rain,139,0,Motorcycle,1,3,Late night,June
+A0719,2025-03-28,18:51,Market Street,Serious,Dual carriageway,Crossroads,60,1,8.0,Rain,707,1,Car,1,18,Evening,March
+A0720,2025-08-07,20:02,Market Street,Fatal,Urban single carriageway,T-Junction,40,0,10.0,Fine,568,0,Van,3,20,Evening,August
+A0721,2025-02-20,15:39,Central Road,Serious,Dual carriageway,T-Junction,60,0,10.0,Fine,418,0,Motorcycle,2,15,Afternoon,February
+A0722,2025-12-06,14:26,Market Street,Slight,Single carriageway,Crossroads,50,0,10.0,Fine,619,0,Car,1,14,Afternoon,December
+A0723,2025-11-05,00:27,Market Street,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,199,0,Heavy goods vehicle,1,0,Late night,November
+A0724,2025-02-13,19:15,Ring Road,Serious,Urban single carriageway,Roundabout,30,0,10.0,Fine,666,1,Van,1,19,Evening,February
+A0725,2025-10-14,11:58,Central Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,454,0,Motorcycle,1,11,Morning,October
+A0726,2025-02-12,20:23,Central Road,Serious,Single carriageway,No Junction,50,0,8.0,Fine,551,0,Bus,2,20,Evening,February
+A0727,2025-09-21,12:51,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,8.0,Fine,490,0,Motorcycle,1,12,Afternoon,September
+A0728,2025-02-02,16:25,Central Road,Serious,Single carriageway,Crossroads,40,0,10.0,Fine,1040,1,Motorcycle,1,16,Afternoon,February
+A0729,2025-06-28,09:02,Hill View Road,Slight,Dual carriageway,No Junction,50,1,3.0,Rain,542,1,Car,1,9,Morning,June
+A0730,2025-08-29,08:52,Industrial Road,Serious,Dual carriageway,No Junction,60,0,10.0,Fine,714,1,Car,1,8,Morning,August
+A0731,2025-09-24,19:11,Market Street,Serious,Urban single carriageway,T-Junction,20,1,5.0,Rain,737,1,Motorcycle,1,19,Evening,September
+A0732,2025-06-02,15:16,Industrial Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,423,0,Motorcycle,1,15,Afternoon,June
+A0733,2025-12-03,16:51,Central Road,Serious,Urban single carriageway,T-Junction,30,0,1.0,Fog,738,1,Van,1,16,Afternoon,December
+A0734,2025-10-10,22:53,Central Road,Slight,Single carriageway,T-Junction,40,1,5.0,Rain,472,0,Motorcycle,1,22,Late night,October
+A0735,2025-03-18,22:55,Hill View Road,Serious,Dual carriageway,No Junction,50,0,10.0,Fine,181,0,Motorcycle,1,22,Late night,March
+A0736,2025-09-02,20:25,Hill View Road,Serious,Urban single carriageway,Roundabout,30,1,3.0,Snow,654,0,Bus,1,20,Evening,September
+A0737,2025-09-24,08:45,Lake Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,691,1,Heavy goods vehicle,1,8,Morning,September
+A0738,2025-05-02,17:19,Central Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,708,1,Car,1,17,Evening,May
+A0739,2025-09-27,20:44,Lake Road,Slight,Single carriageway,T-Junction,30,1,5.0,Rain,393,0,Heavy goods vehicle,1,20,Evening,September
+A0740,2025-11-24,12:30,Market Street,Slight,Dual carriageway,Crossroads,50,0,10.0,Fine,509,0,Van,1,12,Afternoon,November
+A0741,2025-10-26,07:03,Market Street,Serious,Urban single carriageway,No Junction,30,0,8.0,Fine,890,1,Car,1,7,Morning,October
+A0742,2025-10-06,19:25,Central Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,646,1,Car,1,19,Evening,October
+A0743,2025-08-20,15:28,Industrial Road,Serious,Single carriageway,T-Junction,30,0,10.0,Fine,375,0,Car,1,15,Afternoon,August
+A0744,2025-04-09,16:15,Central Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,750,1,Motorcycle,1,16,Afternoon,April
+A0745,2025-10-18,23:22,Lake Road,Serious,Single carriageway,T-Junction,30,0,10.0,Fine,298,0,Motorcycle,2,23,Late night,October
+A0746,2025-05-13,17:30,Hill View Road,Serious,Dual carriageway,T-Junction,60,0,10.0,Fine,773,1,Motorcycle,1,17,Evening,May
+A0747,2025-07-14,13:02,Hill View Road,Slight,Single carriageway,No Junction,30,0,12.0,Fine,568,0,Van,2,13,Afternoon,July
+A0748,2025-04-25,12:09,Hill View Road,Serious,Dual carriageway,Roundabout,60,0,10.0,Fine,482,0,Car,1,12,Afternoon,April
+A0749,2025-04-25,13:46,Lake Road,Serious,Single carriageway,Roundabout,40,0,10.0,Fine,421,0,Car,1,13,Afternoon,April
+A0750,2025-02-27,07:21,Central Road,Fatal,Dual carriageway,T-Junction,50,1,8.0,Rain,889,1,Bus,2,7,Morning,February
+A0751,2025-12-17,19:36,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,695,1,Heavy goods vehicle,1,19,Evening,December
+A0752,2025-02-23,20:33,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,245,0,Van,2,20,Evening,February
+A0753,2025-02-01,10:33,Market Street,Fatal,Single carriageway,T-Junction,40,1,8.0,Rain,633,0,Car,2,10,Morning,February
+A0754,2025-12-08,10:24,Central Road,Serious,Urban single carriageway,Crossroads,40,0,1.0,Fog,489,0,Car,2,10,Morning,December
+A0755,2025-07-22,20:28,Central Road,Slight,Dual carriageway,Roundabout,60,0,10.0,Fine,583,0,Car,1,20,Evening,July
+A0756,2025-06-09,02:49,Market Street,Serious,Single carriageway,No Junction,50,0,10.0,Fine,401,0,Motorcycle,1,2,Late night,June
+A0757,2025-09-27,15:57,Central Road,Slight,Dual carriageway,T-Junction,60,1,5.0,Rain,614,0,Car,1,15,Afternoon,September
+A0758,2025-05-20,14:15,Central Road,Slight,Urban single carriageway,T-Junction,20,0,2.0,Fog,683,0,Heavy goods vehicle,1,14,Afternoon,May
+A0759,2025-02-16,18:40,Industrial Road,Slight,Single carriageway,Roundabout,30,0,8.0,Fine,813,1,Motorcycle,1,18,Evening,February
+A0760,2025-09-24,08:58,Market Street,Slight,Single carriageway,Crossroads,40,0,12.0,Fine,829,1,Car,1,8,Morning,September
+A0761,2025-03-06,18:00,Industrial Road,Slight,Urban single carriageway,No Junction,30,0,8.0,Fine,685,1,Car,1,18,Evening,March
+A0762,2025-07-21,12:47,Industrial Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,520,0,Car,2,12,Afternoon,July
+A0763,2025-12-13,17:29,Central Road,Slight,Single carriageway,Crossroads,40,0,3.0,Fog,750,1,Motorcycle,1,17,Evening,December
+A0764,2025-12-08,05:58,Hill View Road,Slight,Dual carriageway,Crossroads,60,1,6.0,Rain,210,0,Van,1,5,Late night,December
+A0765,2025-05-12,14:34,Ring Road,Slight,Single carriageway,No Junction,40,0,8.0,Fine,691,0,Car,1,14,Afternoon,May
+A0766,2025-10-12,15:50,Hill View Road,Slight,Urban single carriageway,Crossroads,30,1,8.0,Rain,448,0,Bus,3,15,Afternoon,October
+A0767,2025-08-12,08:09,Central Road,Serious,Single carriageway,Roundabout,40,1,6.0,Rain,855,1,Car,1,8,Morning,August
+A0768,2025-06-24,07:08,Central Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,739,1,Car,1,7,Morning,June
+A0769,2025-02-21,08:55,Central Road,Slight,Urban single carriageway,Crossroads,20,1,3.0,Rain,912,1,Heavy goods vehicle,1,8,Morning,February
+A0770,2025-05-18,11:31,Ring Road,Slight,Single carriageway,No Junction,30,0,8.0,Fine,506,0,Car,1,11,Morning,May
+A0771,2025-08-26,07:33,Industrial Road,Serious,Urban single carriageway,Crossroads,20,0,10.0,Fine,806,1,Car,1,7,Morning,August
+A0772,2025-12-27,22:10,Hill View Road,Serious,Urban single carriageway,Crossroads,30,0,8.0,Fine,251,0,Motorcycle,2,22,Late night,December
+A0773,2025-01-02,13:13,Hill View Road,Fatal,Single carriageway,T-Junction,30,0,10.0,Fine,533,0,Car,2,13,Afternoon,January
+A0774,2025-09-19,19:49,Industrial Road,Fatal,Urban single carriageway,No Junction,20,1,2.0,Snow,857,1,Car,2,19,Evening,September
+A0775,2025-11-05,22:18,Hill View Road,Serious,Single carriageway,T-Junction,50,0,10.0,Fine,258,0,Car,1,22,Late night,November
+A0776,2025-12-14,07:35,Central Road,Serious,Urban single carriageway,Crossroads,40,0,12.0,Fine,798,1,Car,1,7,Morning,December
+A0777,2025-06-04,17:18,Lake Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,739,1,Motorcycle,1,17,Evening,June
+A0778,2025-02-13,20:15,Market Street,Serious,Urban single carriageway,Roundabout,30,0,12.0,Fine,499,0,Car,1,20,Evening,February
+A0779,2025-04-09,17:09,Central Road,Serious,Dual carriageway,No Junction,60,0,12.0,Fine,738,1,Van,1,17,Evening,April
+A0780,2025-11-07,14:55,Ring Road,Serious,Urban single carriageway,Roundabout,20,1,6.0,Rain,424,0,Bus,1,14,Afternoon,November
+A0781,2025-11-17,14:56,Industrial Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,335,0,Car,1,14,Afternoon,November
+A0782,2025-08-21,05:06,Market Street,Slight,Urban single carriageway,T-Junction,20,0,12.0,Fine,472,0,Car,3,5,Late night,August
+A0783,2025-02-14,16:21,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,553,1,Car,2,16,Afternoon,February
+A0784,2025-02-14,23:33,Central Road,Slight,Single carriageway,Roundabout,50,0,12.0,Fine,342,0,Car,1,23,Late night,February
+A0785,2025-06-24,22:22,Central Road,Serious,Dual carriageway,Roundabout,60,1,6.0,Rain,368,0,Car,1,22,Late night,June
+A0786,2025-08-03,05:43,Central Road,Serious,Dual carriageway,No Junction,70,0,10.0,Fine,393,0,Van,1,5,Late night,August
+A0787,2025-01-12,18:15,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,615,1,Car,1,18,Evening,January
+A0788,2025-09-08,10:03,Lake Road,Serious,Urban single carriageway,T-Junction,30,1,8.0,Rain,423,0,Motorcycle,1,10,Morning,September
+A0789,2025-07-18,21:20,Central Road,Slight,Single carriageway,T-Junction,40,1,6.0,Rain,584,0,Motorcycle,1,21,Late night,July
+A0790,2025-01-05,06:35,Market Street,Slight,Single carriageway,Roundabout,40,1,8.0,Rain,345,0,Bus,2,6,Morning,January
+A0791,2025-02-04,21:10,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,512,0,Car,2,21,Late night,February
+A0792,2025-06-15,20:48,Central Road,Slight,Single carriageway,No Junction,30,0,12.0,Fine,698,0,Car,2,20,Evening,June
+A0793,2025-09-21,07:00,Ring Road,Serious,Single carriageway,T-Junction,40,1,3.0,Rain,439,1,Heavy goods vehicle,1,7,Morning,September
+A0794,2025-10-29,06:04,Hill View Road,Slight,Single carriageway,Crossroads,30,0,12.0,Fine,209,0,Car,2,6,Morning,October
+A0795,2025-06-07,20:30,Hill View Road,Serious,Urban single carriageway,T-Junction,30,1,3.0,Rain,383,0,Motorcycle,1,20,Evening,June
+A0796,2025-04-18,08:30,Market Street,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,851,1,Motorcycle,1,8,Morning,April
+A0797,2025-12-20,16:17,Ring Road,Serious,Urban single carriageway,No Junction,30,1,3.0,Rain,504,1,Motorcycle,1,16,Afternoon,December
+A0798,2025-06-17,21:15,Central Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,540,0,Car,1,21,Late night,June
+A0799,2025-04-26,16:04,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,799,1,Car,1,16,Afternoon,April
+A0800,2025-06-11,13:39,Industrial Road,Slight,Single carriageway,T-Junction,40,0,12.0,Fine,617,0,Motorcycle,1,13,Afternoon,June
+A0801,2025-01-05,14:22,Hill View Road,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,463,0,Motorcycle,1,14,Afternoon,January
+A0802,2025-04-21,06:07,Industrial Road,Serious,Single carriageway,Crossroads,50,1,8.0,Rain,191,0,Van,3,6,Morning,April
+A0803,2025-07-08,22:23,Industrial Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,261,0,Van,1,22,Late night,July
+A0804,2025-12-02,11:56,Hill View Road,Serious,Urban single carriageway,No Junction,30,0,8.0,Fine,518,0,Heavy goods vehicle,1,11,Morning,December
+A0805,2025-09-27,08:15,Industrial Road,Slight,Single carriageway,T-Junction,30,0,3.0,Fog,609,1,Heavy goods vehicle,4,8,Morning,September
+A0806,2025-10-13,10:53,Market Street,Slight,Single carriageway,T-Junction,40,1,6.0,Rain,582,0,Van,1,10,Morning,October
+A0807,2025-07-18,22:15,Central Road,Serious,Dual carriageway,Crossroads,60,0,10.0,Fine,389,0,Car,1,22,Late night,July
+A0808,2025-02-10,07:11,Central Road,Serious,Urban single carriageway,T-Junction,30,0,3.0,Fog,771,1,Car,2,7,Morning,February
+A0809,2025-05-23,20:15,Central Road,Serious,Dual carriageway,T-Junction,50,0,10.0,Fine,859,0,Motorcycle,1,20,Evening,May
+A0810,2025-12-30,18:19,Central Road,Serious,Urban single carriageway,Roundabout,30,1,6.0,Rain,768,1,Motorcycle,1,18,Evening,December
+A0811,2025-01-17,19:07,Market Street,Slight,Urban single carriageway,Crossroads,40,0,12.0,Fine,854,1,Car,1,19,Evening,January
+A0812,2025-11-17,23:35,Hill View Road,Fatal,Urban single carriageway,Roundabout,30,0,10.0,Fine,153,0,Motorcycle,1,23,Late night,November
+A0813,2025-09-07,20:20,Lake Road,Serious,Single carriageway,T-Junction,30,0,10.0,Fine,482,0,Car,2,20,Evening,September
+A0814,2025-04-14,22:43,Ring Road,Slight,Urban single carriageway,Roundabout,20,0,10.0,Fine,317,0,Car,1,22,Late night,April
+A0815,2025-10-11,07:29,Central Road,Slight,Urban single carriageway,Roundabout,20,0,8.0,Fine,751,1,Bus,2,7,Morning,October
+A0816,2025-11-02,19:26,Hill View Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,644,1,Motorcycle,1,19,Evening,November
+A0817,2025-01-16,16:28,Market Street,Serious,Single carriageway,T-Junction,50,1,6.0,Rain,720,1,Motorcycle,3,16,Afternoon,January
+A0818,2025-02-08,16:09,Central Road,Serious,Urban single carriageway,No Junction,40,0,10.0,Fine,695,1,Motorcycle,1,16,Afternoon,February
+A0819,2025-08-31,21:42,Market Street,Serious,Urban single carriageway,Roundabout,30,0,10.0,Fine,693,0,Motorcycle,1,21,Late night,August
+A0820,2025-12-31,22:06,Market Street,Slight,Single carriageway,Crossroads,30,0,3.0,Fog,334,0,Car,2,22,Late night,December
+A0821,2025-01-09,18:43,Market Street,Slight,Urban single carriageway,T-Junction,40,1,5.0,Rain,568,1,Motorcycle,1,18,Evening,January
+A0822,2025-08-31,15:59,Lake Road,Slight,Urban single carriageway,T-Junction,30,0,2.0,Fog,606,0,Car,1,15,Afternoon,August
+A0823,2025-02-19,14:45,Hill View Road,Slight,Single carriageway,Roundabout,30,0,12.0,Fine,349,0,Motorcycle,1,14,Afternoon,February
+A0824,2025-08-26,12:27,Hill View Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,405,0,Car,2,12,Afternoon,August
+A0825,2025-08-16,12:18,Central Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,754,0,Heavy goods vehicle,1,12,Afternoon,August
+A0826,2025-02-03,13:52,Lake Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,415,0,Van,1,13,Afternoon,February
+A0827,2025-09-06,07:15,Hill View Road,Slight,Urban single carriageway,Roundabout,40,0,10.0,Fine,633,1,Car,2,7,Morning,September
+A0828,2025-11-24,07:28,Central Road,Serious,Urban single carriageway,Roundabout,30,0,3.0,Fog,687,1,Car,1,7,Morning,November
+A0829,2025-11-12,19:46,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,12.0,Fine,486,1,Car,1,19,Evening,November
+A0830,2025-01-11,14:55,Ring Road,Slight,Urban single carriageway,T-Junction,30,1,6.0,Rain,413,0,Van,2,14,Afternoon,January
+A0831,2025-03-31,21:55,Market Street,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,626,0,Motorcycle,2,21,Late night,March
+A0832,2025-03-29,17:05,Central Road,Fatal,Dual carriageway,Crossroads,60,0,10.0,Fine,840,1,Van,1,17,Evening,March
+A0833,2025-06-15,05:53,Ring Road,Serious,Dual carriageway,T-Junction,60,0,10.0,Fine,181,0,Heavy goods vehicle,2,5,Late night,June
+A0834,2025-02-22,08:06,Central Road,Serious,Urban single carriageway,Crossroads,40,1,3.0,Snow,812,1,Motorcycle,1,8,Morning,February
+A0835,2025-11-08,08:35,Central Road,Serious,Single carriageway,Crossroads,30,0,8.0,Fine,626,1,Motorcycle,1,8,Morning,November
+A0836,2025-10-11,23:55,Central Road,Slight,Single carriageway,Roundabout,30,0,12.0,Fine,436,0,Motorcycle,2,23,Late night,October
+A0837,2025-10-23,08:39,Industrial Road,Serious,Dual carriageway,T-Junction,50,0,10.0,Fine,746,1,Motorcycle,1,8,Morning,October
+A0838,2025-03-14,15:56,Market Street,Slight,Urban single carriageway,Roundabout,30,1,6.0,Rain,787,0,Motorcycle,1,15,Afternoon,March
+A0839,2025-01-06,21:20,Market Street,Serious,Urban single carriageway,Crossroads,30,1,2.0,Snow,590,0,Van,2,21,Late night,January
+A0840,2025-11-29,23:18,Market Street,Slight,Urban single carriageway,T-Junction,40,0,3.0,Fog,295,0,Car,1,23,Late night,November
+A0841,2025-04-16,09:19,Industrial Road,Slight,Urban single carriageway,T-Junction,30,1,5.0,Rain,724,1,Car,1,9,Morning,April
+A0842,2025-08-28,06:21,Ring Road,Slight,Urban single carriageway,No Junction,30,1,3.0,Snow,197,0,Car,2,6,Morning,August
+A0843,2025-11-28,08:40,Industrial Road,Slight,Dual carriageway,No Junction,50,1,8.0,Rain,773,1,Heavy goods vehicle,1,8,Morning,November
+A0844,2025-01-14,06:27,Market Street,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,392,0,Motorcycle,1,6,Morning,January
+A0845,2025-01-02,08:44,Central Road,Slight,Urban single carriageway,Roundabout,30,0,12.0,Fine,684,1,Car,1,8,Morning,January
+A0846,2025-01-02,16:24,Ring Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,486,1,Car,1,16,Afternoon,January
+A0847,2025-02-27,21:18,Market Street,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,616,0,Motorcycle,1,21,Late night,February
+A0848,2025-01-19,16:11,Lake Road,Slight,Single carriageway,Crossroads,40,0,12.0,Fine,788,1,Bus,1,16,Afternoon,January
+A0849,2025-10-27,17:33,Lake Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,657,1,Heavy goods vehicle,2,17,Evening,October
+A0850,2025-08-10,08:53,Ring Road,Serious,Urban single carriageway,Crossroads,30,0,3.0,Fog,731,1,Bus,3,8,Morning,August
+A0851,2025-12-24,19:51,Industrial Road,Slight,Dual carriageway,No Junction,50,1,3.0,Snow,831,1,Bus,2,19,Evening,December
+A0852,2025-10-20,17:15,Ring Road,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,676,1,Car,1,17,Evening,October
+A0853,2025-12-18,20:28,Market Street,Slight,Single carriageway,T-Junction,40,1,8.0,Rain,508,0,Car,1,20,Evening,December
+A0854,2025-03-29,22:42,Ring Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,249,0,Motorcycle,2,22,Late night,March
+A0855,2025-04-16,12:36,Central Road,Slight,Single carriageway,T-Junction,40,0,12.0,Fine,710,0,Motorcycle,1,12,Afternoon,April
+A0856,2025-11-07,07:04,Lake Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,702,1,Car,1,7,Morning,November
+A0857,2025-03-31,09:35,Central Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,884,1,Van,2,9,Morning,March
+A0858,2025-01-21,14:02,Market Street,Serious,Single carriageway,No Junction,50,0,10.0,Fine,543,0,Car,1,14,Afternoon,January
+A0859,2025-09-02,22:06,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,209,0,Car,1,22,Late night,September
+A0860,2025-10-20,12:39,Central Road,Slight,Dual carriageway,Roundabout,50,0,12.0,Fine,578,0,Car,1,12,Afternoon,October
+A0861,2025-12-20,19:06,Central Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,804,1,Bus,2,19,Evening,December
+A0862,2025-12-05,16:20,Hill View Road,Serious,Urban single carriageway,Crossroads,20,0,1.0,Fog,766,1,Van,1,16,Afternoon,December
+A0863,2025-02-13,08:35,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,575,1,Motorcycle,1,8,Morning,February
+A0864,2025-10-09,11:39,Ring Road,Serious,Dual carriageway,Crossroads,70,0,10.0,Fine,433,0,Bus,2,11,Morning,October
+A0865,2025-11-05,17:26,Market Street,Slight,Urban single carriageway,Crossroads,20,0,12.0,Fine,802,1,Van,1,17,Evening,November
+A0866,2025-09-12,18:05,Central Road,Slight,Urban single carriageway,Roundabout,30,0,8.0,Fine,672,1,Car,1,18,Evening,September
+A0867,2025-10-27,14:47,Central Road,Slight,Urban single carriageway,T-Junction,30,0,8.0,Fine,657,0,Van,2,14,Afternoon,October
+A0868,2025-11-02,09:56,Hill View Road,Serious,Single carriageway,No Junction,50,0,10.0,Fine,577,1,Car,2,9,Morning,November
+A0869,2025-06-12,18:53,Industrial Road,Fatal,Dual carriageway,Roundabout,70,1,3.0,Rain,694,1,Motorcycle,3,18,Evening,June
+A0870,2025-01-15,08:44,Central Road,Serious,Urban single carriageway,No Junction,40,0,12.0,Fine,994,1,Car,1,8,Morning,January
+A0871,2025-06-16,21:24,Industrial Road,Slight,Dual carriageway,Roundabout,50,1,6.0,Rain,610,0,Motorcycle,2,21,Late night,June
+A0872,2025-03-15,08:52,Ring Road,Serious,Urban single carriageway,No Junction,30,0,10.0,Fine,707,1,Motorcycle,2,8,Morning,March
+A0873,2025-02-11,07:29,Hill View Road,Slight,Single carriageway,T-Junction,50,0,10.0,Fine,688,1,Car,1,7,Morning,February
+A0874,2025-02-15,15:08,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,413,0,Motorcycle,1,15,Afternoon,February
+A0875,2025-09-12,15:51,Hill View Road,Serious,Single carriageway,T-Junction,40,0,12.0,Fine,629,0,Motorcycle,1,15,Afternoon,September
+A0876,2025-07-04,15:19,Lake Road,Serious,Single carriageway,No Junction,30,0,10.0,Fine,510,0,Motorcycle,1,15,Afternoon,July
+A0877,2025-07-17,14:56,Ring Road,Slight,Single carriageway,Crossroads,50,0,8.0,Fine,355,0,Car,1,14,Afternoon,July
+A0878,2025-09-29,23:22,Ring Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,89,0,Car,1,23,Late night,September
+A0879,2025-07-20,15:52,Market Street,Slight,Dual carriageway,Roundabout,50,1,8.0,Rain,646,0,Car,2,15,Afternoon,July
+A0880,2025-08-18,15:32,Central Road,Slight,Dual carriageway,T-Junction,70,0,12.0,Fine,584,0,Bus,1,15,Afternoon,August
+A0881,2025-02-01,13:28,Hill View Road,Slight,Single carriageway,No Junction,50,0,10.0,Fine,287,0,Bus,3,13,Afternoon,February
+A0882,2025-11-07,06:17,Central Road,Serious,Single carriageway,T-Junction,50,1,6.0,Rain,432,0,Car,1,6,Morning,November
+A0883,2025-06-13,17:50,Market Street,Slight,Single carriageway,Crossroads,40,0,8.0,Fine,783,1,Van,2,17,Evening,June
+A0884,2025-02-26,09:03,Central Road,Serious,Urban single carriageway,T-Junction,20,1,6.0,Rain,863,1,Motorcycle,1,9,Morning,February
+A0885,2025-10-24,17:28,Central Road,Slight,Dual carriageway,T-Junction,60,0,1.0,Fog,854,1,Heavy goods vehicle,2,17,Evening,October
+A0886,2025-09-26,06:22,Hill View Road,Slight,Urban single carriageway,Crossroads,20,0,3.0,Fog,169,0,Car,1,6,Morning,September
+A0887,2025-01-20,23:32,Ring Road,Slight,Single carriageway,Crossroads,50,0,12.0,Fine,293,0,Motorcycle,2,23,Late night,January
+A0888,2025-03-12,14:15,Market Street,Slight,Urban single carriageway,Crossroads,30,0,8.0,Fine,540,0,Motorcycle,1,14,Afternoon,March
+A0889,2025-01-06,21:39,Central Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,546,0,Car,1,21,Late night,January
+A0890,2025-04-09,15:23,Market Street,Slight,Single carriageway,No Junction,30,1,3.0,Rain,536,0,Car,2,15,Afternoon,April
+A0891,2025-02-06,06:11,Market Street,Serious,Single carriageway,T-Junction,40,1,5.0,Rain,503,0,Car,1,6,Morning,February
+A0892,2025-09-17,19:11,Hill View Road,Slight,Dual carriageway,Crossroads,70,0,8.0,Fine,621,1,Motorcycle,1,19,Evening,September
+A0893,2025-07-10,17:41,Ring Road,Slight,Dual carriageway,T-Junction,60,0,10.0,Fine,787,1,Motorcycle,1,17,Evening,July
+A0894,2025-12-24,19:15,Ring Road,Serious,Urban single carriageway,No Junction,20,0,12.0,Fine,828,1,Van,1,19,Evening,December
+A0895,2025-10-01,14:18,Ring Road,Slight,Urban single carriageway,Roundabout,20,0,8.0,Fine,356,0,Car,1,14,Afternoon,October
+A0896,2025-08-12,17:37,Industrial Road,Serious,Urban single carriageway,T-Junction,30,0,12.0,Fine,437,1,Bus,1,17,Evening,August
+A0897,2025-07-05,20:19,Hill View Road,Serious,Single carriageway,Crossroads,30,0,1.0,Fog,534,0,Car,1,20,Evening,July
+A0898,2025-01-20,17:23,Ring Road,Serious,Single carriageway,No Junction,50,0,10.0,Fine,615,1,Heavy goods vehicle,1,17,Evening,January
+A0899,2025-01-26,12:14,Ring Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,343,0,Car,2,12,Afternoon,January
+A0900,2025-08-13,18:20,Central Road,Serious,Single carriageway,Crossroads,30,0,4.0,Fog,751,1,Bus,4,18,Evening,August
+A0901,2025-01-02,18:41,Industrial Road,Slight,Urban single carriageway,No Junction,30,0,8.0,Fine,688,1,Heavy goods vehicle,1,18,Evening,January
+A0902,2025-01-16,22:32,Market Street,Slight,Single carriageway,Crossroads,40,0,8.0,Fine,519,0,Bus,1,22,Late night,January
+A0903,2025-03-21,12:59,Market Street,Fatal,Single carriageway,Crossroads,30,1,6.0,Rain,605,0,Van,1,12,Afternoon,March
+A0904,2025-11-19,13:46,Industrial Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,638,0,Car,2,13,Afternoon,November
+A0905,2025-06-17,19:01,Hill View Road,Serious,Urban single carriageway,T-Junction,20,0,10.0,Fine,699,1,Van,1,19,Evening,June
+A0906,2025-09-16,15:22,Central Road,Slight,Urban single carriageway,T-Junction,30,1,3.0,Rain,559,0,Motorcycle,1,15,Afternoon,September
+A0907,2025-05-31,18:17,Central Road,Slight,Urban single carriageway,No Junction,30,1,5.0,Rain,770,1,Motorcycle,1,18,Evening,May
+A0908,2025-03-05,14:35,Central Road,Serious,Urban single carriageway,No Junction,40,1,8.0,Rain,646,0,Heavy goods vehicle,2,14,Afternoon,March
+A0909,2025-05-16,08:15,Ring Road,Serious,Single carriageway,Crossroads,30,1,3.0,Snow,732,1,Car,2,8,Morning,May
+A0910,2025-02-03,18:57,Central Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,909,1,Car,1,18,Evening,February
+A0911,2025-10-09,07:17,Industrial Road,Serious,Single carriageway,Roundabout,30,1,5.0,Rain,703,1,Heavy goods vehicle,1,7,Morning,October
+A0912,2025-03-08,08:31,Industrial Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,747,1,Car,1,8,Morning,March
+A0913,2025-05-18,17:07,Ring Road,Serious,Dual carriageway,No Junction,50,1,8.0,Rain,708,1,Car,1,17,Evening,May
+A0914,2025-12-24,18:54,Ring Road,Slight,Urban single carriageway,Roundabout,30,1,6.0,Rain,611,1,Car,1,18,Evening,December
+A0915,2025-08-05,21:54,Market Street,Serious,Urban single carriageway,Crossroads,20,1,3.0,Rain,476,0,Van,2,21,Late night,August
+A0916,2025-06-17,09:47,Central Road,Slight,Urban single carriageway,Crossroads,40,0,4.0,Fog,729,1,Bus,1,9,Morning,June
+A0917,2025-07-18,07:21,Hill View Road,Slight,Single carriageway,No Junction,50,0,10.0,Fine,625,1,Car,1,7,Morning,July
+A0918,2025-10-14,22:03,Central Road,Serious,Urban single carriageway,No Junction,30,1,5.0,Rain,456,0,Motorcycle,1,22,Late night,October
+A0919,2025-04-03,08:42,Central Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,935,1,Motorcycle,1,8,Morning,April
+A0920,2025-08-21,08:25,Market Street,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,674,1,Motorcycle,2,8,Morning,August
+A0921,2025-11-15,10:59,Central Road,Serious,Urban single carriageway,Roundabout,30,1,5.0,Rain,530,0,Motorcycle,1,10,Morning,November
+A0922,2025-07-28,16:41,Market Street,Serious,Urban single carriageway,Crossroads,30,1,6.0,Rain,774,1,Heavy goods vehicle,1,16,Afternoon,July
+A0923,2025-06-12,20:32,Hill View Road,Serious,Single carriageway,Crossroads,30,0,10.0,Fine,509,0,Car,1,20,Evening,June
+A0924,2025-02-22,19:59,Lake Road,Serious,Dual carriageway,No Junction,60,0,8.0,Fine,597,1,Car,3,19,Evening,February
+A0925,2025-04-01,18:48,Ring Road,Serious,Single carriageway,No Junction,40,0,12.0,Fine,607,1,Motorcycle,2,18,Evening,April
+A0926,2025-12-12,08:27,Lake Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,508,1,Motorcycle,1,8,Morning,December
+A0927,2025-07-17,12:01,Market Street,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,638,0,Motorcycle,1,12,Afternoon,July
+A0928,2025-04-20,15:05,Lake Road,Serious,Single carriageway,T-Junction,30,0,3.0,Fog,413,0,Car,2,15,Afternoon,April
+A0929,2025-06-02,07:26,Ring Road,Slight,Urban single carriageway,No Junction,20,0,10.0,Fine,584,1,Car,2,7,Morning,June
+A0930,2025-07-30,09:33,Central Road,Slight,Single carriageway,T-Junction,40,1,3.0,Snow,784,1,Heavy goods vehicle,1,9,Morning,July
+A0931,2025-07-16,10:01,Industrial Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,622,0,Car,2,10,Morning,July
+A0932,2025-09-13,07:07,Market Street,Slight,Urban single carriageway,No Junction,20,1,8.0,Rain,709,1,Motorcycle,1,7,Morning,September
+A0933,2025-04-04,16:42,Central Road,Serious,Single carriageway,Roundabout,40,0,10.0,Fine,725,1,Van,1,16,Afternoon,April
+A0934,2025-08-25,18:45,Central Road,Slight,Single carriageway,No Junction,40,1,8.0,Rain,935,1,Car,1,18,Evening,August
+A0935,2025-06-11,06:01,Market Street,Serious,Single carriageway,Crossroads,40,1,5.0,Rain,397,0,Car,1,6,Morning,June
+A0936,2025-12-10,15:30,Market Street,Serious,Urban single carriageway,No Junction,30,1,6.0,Rain,656,0,Car,1,15,Afternoon,December
+A0937,2025-02-27,19:04,Ring Road,Slight,Single carriageway,Roundabout,40,0,2.0,Fog,690,1,Motorcycle,1,19,Evening,February
+A0938,2025-02-24,18:43,Lake Road,Serious,Dual carriageway,Roundabout,60,0,8.0,Fine,646,1,Car,2,18,Evening,February
+A0939,2025-06-18,19:50,Market Street,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,775,1,Motorcycle,2,19,Evening,June
+A0940,2025-07-05,14:52,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,513,0,Car,1,14,Afternoon,July
+A0941,2025-09-10,19:35,Market Street,Slight,Urban single carriageway,Roundabout,20,1,5.0,Rain,926,1,Car,1,19,Evening,September
+A0942,2025-05-28,09:37,Lake Road,Slight,Urban single carriageway,Roundabout,20,0,10.0,Fine,758,1,Car,1,9,Morning,May
+A0943,2025-11-30,12:55,Central Road,Serious,Dual carriageway,No Junction,60,0,10.0,Fine,471,0,Car,1,12,Afternoon,November
+A0944,2025-06-23,08:36,Central Road,Slight,Single carriageway,No Junction,30,0,10.0,Fine,940,1,Car,1,8,Morning,June
+A0945,2025-02-17,14:26,Ring Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,394,0,Heavy goods vehicle,2,14,Afternoon,February
+A0946,2025-02-13,13:45,Hill View Road,Slight,Urban single carriageway,Crossroads,30,1,6.0,Rain,354,0,Car,1,13,Afternoon,February
+A0947,2025-12-22,09:35,Lake Road,Serious,Dual carriageway,Crossroads,50,1,5.0,Rain,633,1,Motorcycle,1,9,Morning,December
+A0948,2025-02-18,19:50,Ring Road,Slight,Urban single carriageway,No Junction,30,1,5.0,Rain,733,1,Motorcycle,2,19,Evening,February
+A0949,2025-12-12,11:31,Lake Road,Slight,Single carriageway,No Junction,40,1,8.0,Rain,484,0,Van,2,11,Morning,December
+A0950,2025-04-12,09:52,Market Street,Serious,Urban single carriageway,No Junction,20,0,1.0,Fog,784,1,Motorcycle,1,9,Morning,April
+A0951,2025-02-04,07:02,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,893,1,Car,1,7,Morning,February
+A0952,2025-04-22,14:02,Central Road,Slight,Single carriageway,T-Junction,40,0,2.0,Fog,603,0,Motorcycle,2,14,Afternoon,April
+A0953,2025-08-13,10:05,Central Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,532,0,Car,1,10,Morning,August
+A0954,2025-06-06,12:33,Market Street,Serious,Single carriageway,Roundabout,40,1,8.0,Rain,519,0,Van,2,12,Afternoon,June
+A0955,2025-10-14,09:42,Ring Road,Serious,Urban single carriageway,Crossroads,30,1,6.0,Rain,691,1,Car,1,9,Morning,October
+A0956,2025-08-12,19:12,Market Street,Slight,Single carriageway,Roundabout,30,0,12.0,Fine,801,1,Van,1,19,Evening,August
+A0957,2025-05-27,21:09,Ring Road,Serious,Single carriageway,Crossroads,50,0,12.0,Fine,292,0,Motorcycle,1,21,Late night,May
+A0958,2025-08-20,15:51,Ring Road,Serious,Single carriageway,T-Junction,40,0,10.0,Fine,514,0,Motorcycle,1,15,Afternoon,August
+A0959,2025-12-21,17:45,Hill View Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,601,1,Car,1,17,Evening,December
+A0960,2025-05-31,20:38,Hill View Road,Serious,Single carriageway,Crossroads,30,0,2.0,Fog,589,0,Motorcycle,2,20,Evening,May
+A0961,2025-02-26,23:29,Market Street,Serious,Dual carriageway,Crossroads,50,0,10.0,Fine,249,0,Van,1,23,Late night,February
+A0962,2025-05-30,17:25,Market Street,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,791,1,Motorcycle,2,17,Evening,May
+A0963,2025-11-03,20:01,Ring Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,360,0,Car,1,20,Evening,November
+A0964,2025-03-21,21:11,Ring Road,Serious,Dual carriageway,No Junction,60,0,10.0,Fine,332,0,Car,2,21,Late night,March
+A0965,2025-12-13,19:53,Market Street,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,761,1,Car,1,19,Evening,December
+A0966,2025-08-03,14:20,Market Street,Slight,Single carriageway,T-Junction,30,0,10.0,Fine,767,0,Van,1,14,Afternoon,August
+A0967,2025-08-08,07:42,Hill View Road,Serious,Single carriageway,T-Junction,40,0,10.0,Fine,664,1,Car,1,7,Morning,August
+A0968,2025-04-26,01:42,Hill View Road,Serious,Urban single carriageway,Roundabout,30,0,12.0,Fine,150,0,Van,2,1,Late night,April
+A0969,2025-12-02,15:18,Central Road,Serious,Single carriageway,T-Junction,40,0,10.0,Fine,407,0,Van,1,15,Afternoon,December
+A0970,2025-01-14,15:12,Market Street,Serious,Single carriageway,Roundabout,40,0,10.0,Fine,417,0,Motorcycle,1,15,Afternoon,January
+A0971,2025-04-20,13:41,Industrial Road,Slight,Urban single carriageway,No Junction,40,1,8.0,Rain,456,0,Motorcycle,1,13,Afternoon,April
+A0972,2025-06-02,16:05,Central Road,Serious,Dual carriageway,No Junction,50,0,10.0,Fine,746,1,Motorcycle,1,16,Afternoon,June
+A0973,2025-06-24,16:29,Lake Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,627,1,Motorcycle,1,16,Afternoon,June
+A0974,2025-06-23,20:53,Central Road,Slight,Urban single carriageway,T-Junction,40,0,2.0,Fog,362,0,Car,2,20,Evening,June
+A0975,2025-02-23,07:42,Ring Road,Slight,Dual carriageway,Crossroads,60,0,8.0,Fine,640,1,Bus,1,7,Morning,February
+A0976,2025-03-24,09:45,Market Street,Serious,Urban single carriageway,Crossroads,30,0,12.0,Fine,912,1,Heavy goods vehicle,1,9,Morning,March
+A0977,2025-02-04,19:04,Central Road,Serious,Dual carriageway,Roundabout,70,1,6.0,Rain,972,1,Motorcycle,1,19,Evening,February
+A0978,2025-07-28,20:11,Industrial Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,320,0,Heavy goods vehicle,4,20,Evening,July
+A0979,2025-05-09,23:16,Ring Road,Slight,Single carriageway,Roundabout,30,1,6.0,Rain,149,0,Heavy goods vehicle,1,23,Late night,May
+A0980,2025-07-26,20:17,Industrial Road,Slight,Urban single carriageway,Crossroads,20,1,5.0,Rain,424,0,Motorcycle,1,20,Evening,July
+A0981,2025-08-04,20:11,Market Street,Slight,Single carriageway,No Junction,40,0,2.0,Fog,604,0,Van,1,20,Evening,August
+A0982,2025-09-14,11:58,Lake Road,Serious,Single carriageway,No Junction,40,0,3.0,Fog,308,0,Motorcycle,1,11,Morning,September
+A0983,2025-07-19,13:09,Industrial Road,Serious,Dual carriageway,T-Junction,60,0,10.0,Fine,678,0,Car,1,13,Afternoon,July
+A0984,2025-08-25,09:42,Ring Road,Serious,Dual carriageway,No Junction,70,1,3.0,Rain,654,1,Car,1,9,Morning,August
+A0985,2025-08-03,17:35,Central Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,797,1,Motorcycle,1,17,Evening,August
+A0986,2025-08-27,21:36,Hill View Road,Slight,Single carriageway,Roundabout,40,1,8.0,Rain,589,0,Van,3,21,Late night,August
+A0987,2025-08-14,11:12,Ring Road,Slight,Single carriageway,No Junction,50,0,10.0,Fine,428,0,Car,1,11,Morning,August
+A0988,2025-04-26,16:18,Industrial Road,Serious,Dual carriageway,No Junction,60,0,10.0,Fine,770,1,Van,2,16,Afternoon,April
+A0989,2025-03-31,10:36,Market Street,Serious,Single carriageway,No Junction,30,0,10.0,Fine,514,0,Motorcycle,1,10,Morning,March
+A0990,2025-10-15,08:17,Market Street,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,672,1,Motorcycle,1,8,Morning,October
+A0991,2025-05-06,08:41,Central Road,Serious,Urban single carriageway,No Junction,30,0,10.0,Fine,748,1,Car,1,8,Morning,May
+A0992,2025-07-20,06:02,Hill View Road,Slight,Single carriageway,Roundabout,40,0,12.0,Fine,448,0,Motorcycle,1,6,Morning,July
+A0993,2025-03-13,22:04,Industrial Road,Slight,Single carriageway,Crossroads,40,0,1.0,Fog,373,0,Car,1,22,Late night,March
+A0994,2025-06-07,13:43,Central Road,Serious,Urban single carriageway,Crossroads,30,0,12.0,Fine,617,0,Car,1,13,Afternoon,June
+A0995,2025-07-13,20:37,Hill View Road,Slight,Urban single carriageway,Roundabout,30,1,8.0,Rain,332,0,Car,1,20,Evening,July
+A0996,2025-08-17,18:02,Industrial Road,Serious,Dual carriageway,Roundabout,60,1,6.0,Rain,821,1,Car,1,18,Evening,August
+A0997,2025-07-12,08:53,Central Road,Slight,Single carriageway,T-Junction,40,1,6.0,Rain,674,1,Car,1,8,Morning,July
+A0998,2025-05-12,08:00,Central Road,Serious,Urban single carriageway,No Junction,40,0,10.0,Fine,653,1,Motorcycle,1,8,Morning,May
+A0999,2025-12-18,19:57,Hill View Road,Slight,Urban single carriageway,Roundabout,30,0,2.0,Fog,594,1,Motorcycle,1,19,Evening,December
+A1000,2025-07-07,09:43,Hill View Road,Slight,Urban single carriageway,T-Junction,30,1,5.0,Rain,845,1,Car,1,9,Morning,July
+A1001,2025-10-23,21:59,Central Road,Slight,Single carriageway,T-Junction,40,1,3.0,Rain,779,0,Bus,2,21,Late night,October
+A1002,2025-09-26,07:56,Lake Road,Fatal,Dual carriageway,Roundabout,60,0,4.0,Fog,604,1,Motorcycle,2,7,Morning,September
+A1003,2025-07-23,18:18,Ring Road,Serious,Dual carriageway,Roundabout,60,0,10.0,Fine,582,1,Heavy goods vehicle,2,18,Evening,July
+A1004,2025-11-20,19:45,Industrial Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,565,1,Motorcycle,1,19,Evening,November
+A1005,2025-02-16,09:12,Lake Road,Slight,Single carriageway,T-Junction,40,0,2.0,Fog,657,1,Car,3,9,Morning,February
+A1006,2025-12-03,10:28,Lake Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,446,0,Heavy goods vehicle,3,10,Morning,December
+A1007,2025-11-07,22:14,Ring Road,Slight,Dual carriageway,Roundabout,60,1,5.0,Rain,308,0,Bus,1,22,Late night,November
+A1008,2025-07-03,09:29,Market Street,Serious,Urban single carriageway,No Junction,20,0,10.0,Fine,901,1,Motorcycle,1,9,Morning,July
+A1009,2025-09-25,14:52,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,410,0,Motorcycle,2,14,Afternoon,September
+A1010,2025-07-09,14:26,Central Road,Slight,Dual carriageway,Roundabout,60,0,12.0,Fine,645,0,Motorcycle,3,14,Afternoon,July
+A1011,2025-04-09,09:05,Hill View Road,Serious,Dual carriageway,T-Junction,50,0,10.0,Fine,579,1,Motorcycle,2,9,Morning,April
+A1012,2025-10-19,19:19,Central Road,Slight,Urban single carriageway,Crossroads,30,1,5.0,Snow,863,1,Van,2,19,Evening,October
+A1013,2025-03-31,19:47,Ring Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,599,1,Motorcycle,1,19,Evening,March
+A1014,2025-04-25,12:31,Central Road,Slight,Single carriageway,Roundabout,50,1,6.0,Rain,635,0,Car,3,12,Afternoon,April
+A1015,2025-07-09,20:33,Market Street,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,627,0,Car,1,20,Evening,July
+A1016,2025-11-02,08:25,Central Road,Serious,Urban single carriageway,No Junction,30,0,1.0,Fog,816,1,Car,1,8,Morning,November
+A1017,2025-05-21,00:17,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,309,0,Car,2,0,Late night,May
+A1018,2025-06-30,16:35,Lake Road,Serious,Single carriageway,Crossroads,40,0,10.0,Fine,492,1,Car,1,16,Afternoon,June
+A1019,2025-01-16,23:37,Central Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,283,0,Heavy goods vehicle,1,23,Late night,January
+A1020,2025-02-12,05:53,Lake Road,Serious,Single carriageway,T-Junction,50,0,10.0,Fine,202,0,Car,1,5,Late night,February
+A1021,2025-01-21,08:37,Lake Road,Serious,Urban single carriageway,Roundabout,20,1,3.0,Snow,505,1,Car,1,8,Morning,January
+A1022,2025-01-27,15:59,Market Street,Slight,Dual carriageway,No Junction,50,1,3.0,Snow,549,0,Car,1,15,Afternoon,January
+A1023,2025-11-14,19:49,Hill View Road,Slight,Single carriageway,Roundabout,40,0,10.0,Fine,612,1,Motorcycle,1,19,Evening,November
+A1024,2025-11-04,07:04,Market Street,Slight,Dual carriageway,Crossroads,50,0,12.0,Fine,940,1,Motorcycle,1,7,Morning,November
+A1025,2025-10-27,13:23,Central Road,Serious,Urban single carriageway,T-Junction,30,0,10.0,Fine,604,0,Motorcycle,1,13,Afternoon,October
+A1026,2025-01-21,18:23,Ring Road,Slight,Single carriageway,Crossroads,40,0,8.0,Fine,752,1,Heavy goods vehicle,1,18,Evening,January
+A1027,2025-01-29,12:00,Central Road,Serious,Dual carriageway,Roundabout,50,0,10.0,Fine,620,0,Heavy goods vehicle,3,12,Afternoon,January
+A1028,2025-04-13,08:10,Lake Road,Slight,Urban single carriageway,Crossroads,30,0,8.0,Fine,596,1,Bus,2,8,Morning,April
+A1029,2025-07-26,08:45,Industrial Road,Slight,Urban single carriageway,T-Junction,30,0,12.0,Fine,743,1,Van,3,8,Morning,July
+A1030,2025-05-02,13:21,Lake Road,Serious,Urban single carriageway,No Junction,30,0,3.0,Fog,502,0,Car,1,13,Afternoon,May
+A1031,2025-06-27,15:08,Ring Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,549,0,Motorcycle,1,15,Afternoon,June
+A1032,2025-03-05,20:17,Ring Road,Serious,Single carriageway,T-Junction,30,0,10.0,Fine,416,0,Car,2,20,Evening,March
+A1033,2025-09-24,17:16,Industrial Road,Serious,Urban single carriageway,T-Junction,30,0,12.0,Fine,565,1,Van,2,17,Evening,September
+A1034,2025-04-25,18:10,Central Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,638,1,Car,1,18,Evening,April
+A1035,2025-01-25,23:06,Central Road,Slight,Single carriageway,T-Junction,40,0,12.0,Fine,357,0,Car,1,23,Late night,January
+A1036,2025-09-29,13:45,Ring Road,Serious,Urban single carriageway,Crossroads,30,1,3.0,Rain,196,0,Car,1,13,Afternoon,September
+A1037,2025-11-26,13:49,Market Street,Serious,Urban single carriageway,No Junction,30,0,12.0,Fine,769,0,Motorcycle,1,13,Afternoon,November
+A1038,2025-01-06,21:29,Market Street,Serious,Single carriageway,T-Junction,40,1,6.0,Rain,649,0,Motorcycle,1,21,Late night,January
+A1039,2025-06-09,09:36,Central Road,Fatal,Urban single carriageway,T-Junction,30,0,3.0,Fog,746,1,Car,1,9,Morning,June
+A1040,2025-10-29,18:55,Ring Road,Slight,Urban single carriageway,Crossroads,20,0,2.0,Fog,539,1,Motorcycle,1,18,Evening,October
+A1041,2025-09-15,19:50,Market Street,Serious,Urban single carriageway,T-Junction,30,1,3.0,Rain,912,1,Car,2,19,Evening,September
+A1042,2025-11-09,07:01,Central Road,Serious,Urban single carriageway,T-Junction,40,0,12.0,Fine,698,1,Van,1,7,Morning,November
+A1043,2025-06-01,14:57,Central Road,Slight,Single carriageway,T-Junction,40,0,12.0,Fine,488,0,Car,2,14,Afternoon,June
+A1044,2025-05-16,08:04,Market Street,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,733,1,Car,2,8,Morning,May
+A1045,2025-09-16,08:01,Lake Road,Slight,Urban single carriageway,T-Junction,30,0,4.0,Fog,661,1,Motorcycle,4,8,Morning,September
+A1046,2025-02-26,14:24,Market Street,Slight,Dual carriageway,No Junction,50,0,1.0,Fog,652,0,Motorcycle,1,14,Afternoon,February
+A1047,2025-03-29,10:44,Hill View Road,Slight,Dual carriageway,No Junction,60,0,8.0,Fine,549,0,Bus,1,10,Morning,March
+A1048,2025-08-08,19:04,Hill View Road,Serious,Urban single carriageway,Crossroads,30,0,8.0,Fine,754,1,Motorcycle,1,19,Evening,August
+A1049,2025-09-01,21:17,Market Street,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,590,0,Heavy goods vehicle,2,21,Late night,September
+A1050,2025-02-13,19:15,Lake Road,Slight,Single carriageway,No Junction,30,0,8.0,Fine,752,1,Car,1,19,Evening,February
+A1051,2025-07-05,09:23,Hill View Road,Slight,Dual carriageway,No Junction,70,1,3.0,Snow,582,1,Car,2,9,Morning,July
+A1052,2025-05-14,09:59,Ring Road,Serious,Dual carriageway,No Junction,50,0,8.0,Fine,467,1,Heavy goods vehicle,1,9,Morning,May
+A1053,2025-07-03,09:19,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,742,1,Car,1,9,Morning,July
+A1054,2025-12-16,07:12,Central Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,729,1,Van,2,7,Morning,December
+A1055,2025-01-28,22:07,Industrial Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,246,0,Car,2,22,Late night,January
+A1056,2025-12-30,13:11,Lake Road,Serious,Dual carriageway,No Junction,50,0,10.0,Fine,334,0,Motorcycle,1,13,Afternoon,December
+A1057,2025-06-14,09:07,Industrial Road,Slight,Dual carriageway,T-Junction,50,0,3.0,Fog,683,1,Car,1,9,Morning,June
+A1058,2025-10-09,20:34,Industrial Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,572,0,Motorcycle,1,20,Evening,October
+A1059,2025-06-04,13:25,Central Road,Serious,Single carriageway,T-Junction,40,0,10.0,Fine,761,0,Van,2,13,Afternoon,June
+A1060,2025-04-24,05:29,Lake Road,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,57,0,Car,1,5,Late night,April
+A1061,2025-10-09,08:49,Ring Road,Serious,Single carriageway,Roundabout,50,0,10.0,Fine,521,1,Car,1,8,Morning,October
+A1062,2025-09-08,17:34,Lake Road,Slight,Dual carriageway,Crossroads,50,0,8.0,Fine,570,1,Car,1,17,Evening,September
+A1063,2025-02-22,19:09,Central Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,886,1,Car,1,19,Evening,February
+A1064,2025-09-15,08:22,Market Street,Slight,Urban single carriageway,Roundabout,20,0,12.0,Fine,789,1,Car,2,8,Morning,September
+A1065,2025-10-02,21:18,Hill View Road,Serious,Single carriageway,Roundabout,50,0,10.0,Fine,357,0,Heavy goods vehicle,1,21,Late night,October
+A1066,2025-05-22,20:49,Lake Road,Serious,Urban single carriageway,T-Junction,30,1,8.0,Rain,501,0,Car,1,20,Evening,May
+A1067,2025-12-04,20:18,Ring Road,Serious,Dual carriageway,No Junction,50,1,8.0,Rain,525,0,Motorcycle,1,20,Evening,December
+A1068,2025-08-22,09:08,Market Street,Serious,Urban single carriageway,Roundabout,30,0,1.0,Fog,808,1,Motorcycle,1,9,Morning,August
+A1069,2025-05-02,06:44,Market Street,Slight,Dual carriageway,Crossroads,60,0,10.0,Fine,308,0,Car,1,6,Morning,May
+A1070,2025-01-04,20:25,Industrial Road,Serious,Urban single carriageway,Crossroads,30,1,5.0,Rain,537,0,Car,1,20,Evening,January
+A1071,2025-09-04,10:05,Market Street,Slight,Urban single carriageway,Roundabout,30,1,6.0,Rain,566,0,Van,2,10,Morning,September
+A1072,2025-03-18,17:41,Market Street,Slight,Urban single carriageway,T-Junction,20,0,8.0,Fine,785,1,Motorcycle,2,17,Evening,March
+A1073,2025-10-04,19:12,Ring Road,Fatal,Urban single carriageway,Crossroads,20,0,12.0,Fine,598,1,Van,1,19,Evening,October
+A1074,2025-07-11,07:52,Market Street,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,902,1,Car,2,7,Morning,July
+A1075,2025-06-20,19:49,Ring Road,Slight,Single carriageway,Crossroads,40,1,5.0,Rain,674,1,Motorcycle,1,19,Evening,June
+A1076,2025-03-01,21:22,Market Street,Slight,Urban single carriageway,T-Junction,40,0,10.0,Fine,693,0,Heavy goods vehicle,1,21,Late night,March
+A1077,2025-09-17,18:33,Lake Road,Slight,Urban single carriageway,Roundabout,30,0,10.0,Fine,783,1,Bus,1,18,Evening,September
+A1078,2025-03-02,14:34,Industrial Road,Serious,Urban single carriageway,Crossroads,30,1,3.0,Snow,555,0,Heavy goods vehicle,1,14,Afternoon,March
+A1079,2025-06-02,20:39,Industrial Road,Slight,Urban single carriageway,Roundabout,30,0,12.0,Fine,459,0,Car,1,20,Evening,June
+A1080,2025-11-02,16:04,Ring Road,Fatal,Dual carriageway,T-Junction,60,0,2.0,Fog,754,1,Heavy goods vehicle,1,16,Afternoon,November
+A1081,2025-12-02,18:19,Market Street,Slight,Dual carriageway,T-Junction,70,1,6.0,Rain,856,1,Bus,2,18,Evening,December
+A1082,2025-12-28,19:10,Hill View Road,Slight,Urban single carriageway,Crossroads,30,1,6.0,Rain,910,1,Van,1,19,Evening,December
+A1083,2025-12-16,18:41,Lake Road,Serious,Single carriageway,No Junction,50,1,5.0,Rain,681,1,Motorcycle,2,18,Evening,December
+A1084,2025-07-22,10:04,Ring Road,Serious,Single carriageway,No Junction,40,0,10.0,Fine,499,0,Heavy goods vehicle,1,10,Morning,July
+A1085,2025-03-15,07:31,Hill View Road,Serious,Dual carriageway,T-Junction,60,1,3.0,Rain,679,1,Motorcycle,1,7,Morning,March
+A1086,2025-11-03,09:43,Hill View Road,Slight,Urban single carriageway,Crossroads,30,1,5.0,Rain,640,1,Van,1,9,Morning,November
+A1087,2025-10-20,15:56,Hill View Road,Serious,Urban single carriageway,T-Junction,30,1,6.0,Rain,404,0,Van,1,15,Afternoon,October
+A1088,2025-12-28,15:17,Hill View Road,Serious,Single carriageway,Crossroads,40,0,12.0,Fine,459,0,Van,1,15,Afternoon,December
+A1089,2025-08-26,16:00,Central Road,Slight,Dual carriageway,No Junction,70,0,10.0,Fine,862,1,Van,3,16,Afternoon,August
+A1090,2025-02-21,13:43,Ring Road,Slight,Single carriageway,Crossroads,50,0,10.0,Fine,545,0,Car,2,13,Afternoon,February
+A1091,2025-07-03,19:00,Ring Road,Slight,Single carriageway,No Junction,40,0,10.0,Fine,680,1,Car,1,19,Evening,July
+A1092,2025-06-13,21:03,Central Road,Slight,Urban single carriageway,T-Junction,40,0,12.0,Fine,543,0,Car,1,21,Late night,June
+A1093,2025-11-04,09:59,Lake Road,Slight,Single carriageway,T-Junction,50,1,6.0,Rain,617,1,Van,2,9,Morning,November
+A1094,2025-05-24,18:51,Ring Road,Fatal,Dual carriageway,No Junction,60,1,3.0,Rain,517,1,Van,1,18,Evening,May
+A1095,2025-04-30,18:42,Central Road,Slight,Urban single carriageway,Crossroads,20,1,6.0,Rain,976,1,Bus,1,18,Evening,April
+A1096,2025-01-30,15:50,Lake Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,375,0,Van,2,15,Afternoon,January
+A1097,2025-11-01,08:04,Hill View Road,Slight,Urban single carriageway,Crossroads,20,0,10.0,Fine,746,1,Motorcycle,2,8,Morning,November
+A1098,2025-10-03,19:05,Hill View Road,Slight,Single carriageway,No Junction,30,0,10.0,Fine,677,1,Car,1,19,Evening,October
+A1099,2025-01-16,22:18,Market Street,Slight,Single carriageway,T-Junction,50,0,8.0,Fine,420,0,Motorcycle,1,22,Late night,January
+A1100,2025-06-08,18:01,Lake Road,Slight,Single carriageway,Crossroads,30,0,10.0,Fine,638,1,Heavy goods vehicle,1,18,Evening,June
+A1101,2025-06-25,21:53,Market Street,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,511,0,Motorcycle,2,21,Late night,June
+A1102,2025-06-21,23:03,Ring Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,133,0,Heavy goods vehicle,1,23,Late night,June
+A1103,2025-12-02,12:32,Central Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,762,0,Heavy goods vehicle,1,12,Afternoon,December
+A1104,2025-02-24,17:51,Hill View Road,Slight,Urban single carriageway,No Junction,30,0,10.0,Fine,661,1,Car,1,17,Evening,February
+A1105,2025-04-22,15:44,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,542,0,Van,2,15,Afternoon,April
+A1106,2025-03-08,23:14,Ring Road,Slight,Urban single carriageway,No Junction,30,0,8.0,Fine,368,0,Motorcycle,1,23,Late night,March
+A1107,2025-03-31,07:28,Ring Road,Slight,Urban single carriageway,Roundabout,30,1,6.0,Rain,608,1,Motorcycle,1,7,Morning,March
+A1108,2025-11-28,13:32,Lake Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,472,0,Car,1,13,Afternoon,November
+A1109,2025-12-10,20:46,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,434,0,Car,2,20,Evening,December
+A1110,2025-01-17,10:25,Market Street,Slight,Urban single carriageway,Crossroads,20,0,12.0,Fine,474,0,Car,1,10,Morning,January
+A1111,2025-08-19,19:17,Industrial Road,Slight,Single carriageway,No Junction,40,0,3.0,Fog,711,1,Motorcycle,1,19,Evening,August
+A1112,2025-03-26,12:47,Hill View Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,488,0,Car,3,12,Afternoon,March
+A1113,2025-03-12,23:53,Industrial Road,Serious,Single carriageway,T-Junction,30,1,3.0,Rain,260,0,Motorcycle,1,23,Late night,March
+A1114,2025-04-17,20:29,Industrial Road,Fatal,Dual carriageway,T-Junction,60,0,10.0,Fine,477,0,Motorcycle,1,20,Evening,April
+A1115,2025-03-12,10:01,Industrial Road,Serious,Single carriageway,T-Junction,30,1,5.0,Rain,492,0,Motorcycle,1,10,Morning,March
+A1116,2025-06-28,19:30,Hill View Road,Slight,Urban single carriageway,T-Junction,40,0,2.0,Fog,861,1,Bus,2,19,Evening,June
+A1117,2025-12-30,11:53,Ring Road,Serious,Urban single carriageway,No Junction,40,0,12.0,Fine,246,0,Motorcycle,2,11,Morning,December
+A1118,2025-08-03,17:59,Central Road,Slight,Single carriageway,Roundabout,40,1,8.0,Rain,860,1,Car,1,17,Evening,August
+A1119,2025-09-21,17:24,Ring Road,Slight,Single carriageway,No Junction,30,0,10.0,Fine,624,1,Heavy goods vehicle,2,17,Evening,September
+A1120,2025-06-30,19:09,Hill View Road,Serious,Urban single carriageway,T-Junction,20,1,6.0,Rain,585,1,Bus,3,19,Evening,June
+A1121,2025-01-06,02:34,Ring Road,Serious,Single carriageway,T-Junction,50,0,8.0,Fine,202,0,Motorcycle,2,2,Late night,January
+A1122,2025-01-31,08:49,Lake Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,716,1,Van,1,8,Morning,January
+A1123,2025-04-09,18:56,Central Road,Fatal,Urban single carriageway,Roundabout,20,0,1.0,Fog,882,1,Car,1,18,Evening,April
+A1124,2025-03-30,16:03,Market Street,Slight,Single carriageway,T-Junction,40,0,4.0,Fog,828,1,Van,3,16,Afternoon,March
+A1125,2025-11-03,15:17,Ring Road,Slight,Urban single carriageway,T-Junction,20,0,12.0,Fine,539,0,Car,1,15,Afternoon,November
+A1126,2025-11-04,06:28,Market Street,Slight,Urban single carriageway,Crossroads,30,1,2.0,Snow,516,0,Motorcycle,1,6,Morning,November
+A1127,2025-11-08,12:05,Central Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,671,0,Car,1,12,Afternoon,November
+A1128,2025-08-21,20:53,Central Road,Serious,Urban single carriageway,No Junction,20,0,10.0,Fine,535,0,Van,2,20,Evening,August
+A1129,2025-07-23,04:06,Lake Road,Serious,Single carriageway,No Junction,40,0,3.0,Fog,279,0,Car,1,4,Late night,July
+A1130,2025-08-25,13:39,Ring Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,479,0,Car,1,13,Afternoon,August
+A1131,2025-05-29,22:55,Central Road,Serious,Urban single carriageway,No Junction,30,0,8.0,Fine,308,0,Car,1,22,Late night,May
+A1132,2025-09-02,06:41,Central Road,Serious,Dual carriageway,Crossroads,60,1,6.0,Rain,233,0,Van,1,6,Morning,September
+A1133,2025-10-17,18:45,Ring Road,Serious,Urban single carriageway,T-Junction,40,0,8.0,Fine,447,1,Car,1,18,Evening,October
+A1134,2025-10-06,09:15,Central Road,Serious,Urban single carriageway,Crossroads,30,0,10.0,Fine,816,1,Motorcycle,1,9,Morning,October
+A1135,2025-08-13,20:49,Hill View Road,Serious,Dual carriageway,T-Junction,70,0,10.0,Fine,459,0,Car,1,20,Evening,August
+A1136,2025-01-22,18:25,Lake Road,Serious,Single carriageway,T-Junction,40,1,6.0,Rain,531,1,Van,4,18,Evening,January
+A1137,2025-09-22,20:03,Central Road,Slight,Single carriageway,Crossroads,50,0,10.0,Fine,694,0,Car,1,20,Evening,September
+A1138,2025-05-14,08:21,Ring Road,Serious,Urban single carriageway,T-Junction,30,0,8.0,Fine,665,1,Heavy goods vehicle,2,8,Morning,May
+A1139,2025-09-29,16:20,Central Road,Slight,Urban single carriageway,Roundabout,30,1,6.0,Rain,944,1,Car,1,16,Afternoon,September
+A1140,2025-07-16,19:31,Market Street,Slight,Single carriageway,No Junction,30,0,10.0,Fine,847,1,Car,1,19,Evening,July
+A1141,2025-11-18,09:15,Lake Road,Slight,Urban single carriageway,Roundabout,40,0,8.0,Fine,543,1,Car,1,9,Morning,November
+A1142,2025-05-04,09:27,Ring Road,Slight,Urban single carriageway,T-Junction,40,1,6.0,Rain,695,1,Car,1,9,Morning,May
+A1143,2025-12-06,03:25,Lake Road,Serious,Single carriageway,Crossroads,40,1,6.0,Rain,297,0,Motorcycle,1,3,Late night,December
+A1144,2025-11-05,22:19,Central Road,Serious,Urban single carriageway,No Junction,30,0,10.0,Fine,335,0,Car,1,22,Late night,November
+A1145,2025-05-01,18:41,Market Street,Slight,Urban single carriageway,Crossroads,30,0,3.0,Fog,665,1,Heavy goods vehicle,3,18,Evening,May
+A1146,2025-06-26,17:18,Ring Road,Slight,Urban single carriageway,T-Junction,30,1,6.0,Rain,660,1,Motorcycle,1,17,Evening,June
+A1147,2025-07-13,18:45,Ring Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,549,1,Car,2,18,Evening,July
+A1148,2025-10-08,16:15,Industrial Road,Serious,Single carriageway,Roundabout,40,1,3.0,Rain,842,1,Motorcycle,1,16,Afternoon,October
+A1149,2025-09-09,15:51,Central Road,Slight,Dual carriageway,T-Junction,60,1,3.0,Rain,549,0,Car,1,15,Afternoon,September
+A1150,2025-11-07,14:21,Lake Road,Slight,Urban single carriageway,Roundabout,20,0,8.0,Fine,602,0,Car,1,14,Afternoon,November
+A1151,2025-05-16,17:02,Lake Road,Slight,Urban single carriageway,T-Junction,40,0,12.0,Fine,437,1,Car,1,17,Evening,May
+A1152,2025-07-04,08:08,Ring Road,Slight,Single carriageway,T-Junction,30,1,8.0,Rain,663,1,Car,1,8,Morning,July
+A1153,2025-06-07,20:48,Market Street,Slight,Urban single carriageway,T-Junction,30,1,5.0,Snow,732,0,Car,1,20,Evening,June
+A1154,2025-11-28,19:52,Ring Road,Slight,Single carriageway,Crossroads,30,0,8.0,Fine,560,1,Heavy goods vehicle,1,19,Evening,November
+A1155,2025-04-22,12:12,Market Street,Slight,Dual carriageway,T-Junction,50,1,6.0,Rain,574,0,Motorcycle,2,12,Afternoon,April
+A1156,2025-08-03,16:36,Lake Road,Serious,Single carriageway,Roundabout,30,1,6.0,Rain,609,1,Heavy goods vehicle,1,16,Afternoon,August
+A1157,2025-02-13,07:34,Ring Road,Slight,Urban single carriageway,T-Junction,30,0,3.0,Fog,581,1,Car,3,7,Morning,February
+A1158,2025-11-07,22:08,Industrial Road,Slight,Dual carriageway,Crossroads,60,0,1.0,Fog,334,0,Bus,1,22,Late night,November
+A1159,2025-05-21,21:27,Ring Road,Serious,Urban single carriageway,Roundabout,30,0,12.0,Fine,300,0,Car,1,21,Late night,May
+A1160,2025-05-05,21:41,Ring Road,Serious,Dual carriageway,T-Junction,60,0,8.0,Fine,418,0,Car,1,21,Late night,May
+A1161,2025-08-01,11:58,Hill View Road,Slight,Single carriageway,Crossroads,40,0,8.0,Fine,481,0,Van,1,11,Morning,August
+A1162,2025-07-02,08:50,Ring Road,Slight,Single carriageway,Crossroads,30,0,12.0,Fine,628,1,Car,2,8,Morning,July
+A1163,2025-11-06,08:05,Industrial Road,Slight,Dual carriageway,T-Junction,50,0,10.0,Fine,629,1,Car,2,8,Morning,November
+A1164,2025-07-13,07:14,Central Road,Slight,Single carriageway,T-Junction,40,1,5.0,Rain,913,1,Bus,1,7,Morning,July
+A1165,2025-07-08,07:26,Industrial Road,Serious,Single carriageway,Roundabout,40,0,2.0,Fog,803,1,Motorcycle,1,7,Morning,July
+A1166,2025-02-08,06:09,Lake Road,Slight,Urban single carriageway,Crossroads,30,0,12.0,Fine,125,0,Motorcycle,2,6,Morning,February
+A1167,2025-01-09,23:34,Lake Road,Slight,Single carriageway,Roundabout,30,1,3.0,Rain,100,0,Car,1,23,Late night,January
+A1168,2025-05-26,06:00,Ring Road,Serious,Single carriageway,T-Junction,40,0,10.0,Fine,134,0,Car,1,6,Morning,May
+A1169,2025-12-31,07:06,Lake Road,Serious,Urban single carriageway,Roundabout,20,0,10.0,Fine,704,1,Heavy goods vehicle,1,7,Morning,December
+A1170,2025-12-01,19:02,Market Street,Serious,Single carriageway,No Junction,40,0,8.0,Fine,837,1,Car,1,19,Evening,December
+A1171,2025-08-18,16:17,Hill View Road,Serious,Single carriageway,T-Junction,30,0,10.0,Fine,729,1,Car,1,16,Afternoon,August
+A1172,2025-08-19,19:45,Central Road,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,777,1,Car,1,19,Evening,August
+A1173,2025-05-23,17:10,Market Street,Serious,Urban single carriageway,T-Junction,30,1,5.0,Rain,717,1,Heavy goods vehicle,3,17,Evening,May
+A1174,2025-03-06,20:59,Market Street,Slight,Single carriageway,No Junction,40,1,6.0,Rain,681,0,Van,1,20,Evening,March
+A1175,2025-01-04,17:16,Market Street,Slight,Urban single carriageway,No Junction,20,0,10.0,Fine,754,1,Motorcycle,2,17,Evening,January
+A1176,2025-05-04,15:02,Market Street,Slight,Urban single carriageway,Crossroads,30,0,10.0,Fine,608,0,Heavy goods vehicle,2,15,Afternoon,May
+A1177,2025-04-26,18:20,Lake Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,495,1,Car,1,18,Evening,April
+A1178,2025-03-11,14:44,Market Street,Slight,Urban single carriageway,T-Junction,30,1,5.0,Snow,533,0,Heavy goods vehicle,1,14,Afternoon,March
+A1179,2025-04-05,12:06,Hill View Road,Serious,Urban single carriageway,Crossroads,20,0,2.0,Fog,530,0,Car,1,12,Afternoon,April
+A1180,2025-01-10,14:04,Central Road,Slight,Single carriageway,Roundabout,30,0,10.0,Fine,518,0,Car,2,14,Afternoon,January
+A1181,2025-08-10,08:50,Hill View Road,Slight,Urban single carriageway,T-Junction,30,0,10.0,Fine,731,1,Car,1,8,Morning,August
+A1182,2025-12-05,19:35,Lake Road,Serious,Dual carriageway,T-Junction,50,0,10.0,Fine,416,1,Heavy goods vehicle,3,19,Evening,December
+A1183,2025-09-10,09:20,Market Street,Serious,Dual carriageway,No Junction,50,1,3.0,Rain,754,1,Heavy goods vehicle,2,9,Morning,September
+A1184,2025-06-13,08:45,Hill View Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,632,1,Motorcycle,1,8,Morning,June
+A1185,2025-06-03,09:50,Industrial Road,Slight,Dual carriageway,Roundabout,60,0,8.0,Fine,904,1,Car,1,9,Morning,June
+A1186,2025-04-23,20:21,Lake Road,Serious,Dual carriageway,T-Junction,70,0,10.0,Fine,313,0,Car,1,20,Evening,April
+A1187,2025-02-21,11:33,Market Street,Slight,Urban single carriageway,Crossroads,30,0,12.0,Fine,657,0,Motorcycle,1,11,Morning,February
+A1188,2025-08-07,18:00,Ring Road,Slight,Single carriageway,T-Junction,40,0,10.0,Fine,755,1,Car,1,18,Evening,August
+A1189,2025-07-26,20:18,Lake Road,Serious,Urban single carriageway,No Junction,30,0,10.0,Fine,357,0,Car,1,20,Evening,July
+A1190,2025-01-03,07:35,Market Street,Slight,Single carriageway,T-Junction,30,1,6.0,Rain,772,1,Motorcycle,1,7,Morning,January
+A1191,2025-06-01,19:11,Lake Road,Slight,Single carriageway,Crossroads,40,0,10.0,Fine,664,1,Motorcycle,1,19,Evening,June
+A1192,2025-04-12,10:59,Market Street,Slight,Urban single carriageway,Roundabout,20,0,10.0,Fine,441,0,Heavy goods vehicle,2,10,Morning,April
+A1193,2025-03-04,08:58,Lake Road,Slight,Urban single carriageway,No Junction,40,0,10.0,Fine,604,1,Motorcycle,1,8,Morning,March
+A1194,2025-09-14,18:15,Central Road,Slight,Dual carriageway,No Junction,60,0,10.0,Fine,937,1,Car,1,18,Evening,September
+A1195,2025-07-11,21:23,Central Road,Serious,Urban single carriageway,T-Junction,30,1,3.0,Rain,642,0,Motorcycle,2,21,Late night,July
+A1196,2025-08-20,10:11,Industrial Road,Slight,Urban single carriageway,T-Junction,30,0,2.0,Fog,494,0,Car,1,10,Morning,August
+A1197,2025-09-18,16:30,Lake Road,Slight,Urban single carriageway,T-Junction,20,0,10.0,Fine,661,1,Motorcycle,1,16,Afternoon,September
+A1198,2025-12-25,10:07,Lake Road,Serious,Single carriageway,No Junction,30,0,3.0,Fog,488,0,Van,2,10,Morning,December
+A1199,2025-10-21,16:23,Industrial Road,Serious,Dual carriageway,No Junction,60,1,8.0,Rain,807,1,Car,1,16,Afternoon,October
+A1200,2025-08-15,17:33,Market Street,Slight,Single carriageway,No Junction,40,1,6.0,Rain,754,1,Car,2,17,Evening,August
